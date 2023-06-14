@@ -1,0 +1,541 @@
+SOURCE	ID	PREMISE	HYPOTHESIS
+PRETEST	BNI1	El hijo oyó que le estaban llamando.	Estaban llamando al hijo.
+PRETEST	BNI2	El presidente dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	BNI3	El experto creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	BNI4	La periodista sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	BNI5	El jugador anunció que iba a cambiar de equipo.	El jugador iba a cambiar de equipo.
+PRETEST	BNI6	El entrenador sospechaba que el equipo contrario había comprado al árbrito.	El equipo contrario había comprado al árbitro.
+PRETEST	BNI7	La escritora intuía que su nueva novela iba a tener éxito.	La nueva novela de la escritora iba a tener éxito.
+PRETEST	BNI8	El general creyó que los ataques habían cesado.	Los ataques habían cesado.
+PRETEST	BNI9	El cantante sabía que la canción iba a ser todo un éxito.	La canción iba a ser un éxito.
+PRETEST	BNI10	El hijo de la actriz oyó que le estaban llamando.	Estaban llamando al hijo de la actriz.
+PRETEST	BNI11	El presidente de España dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	BNI12	El experto en epidemias creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	BNI13	La periodista de LaSexta sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	BNI14	El jugador de fútbol anunció que iba a cambiar de equipo.	El jugador de fútbol iba a cambiar de equipo.
+PRETEST	BNI15	El entrenador de fútbol sospechaba que el equipo contrario había comprado al árbrito.	El equipo contrario había comprado al árbitro.
+PRETEST	BNI16	La autora de literatura juvenil intuía que su nueva novela iba a tener éxito.	La nueva novela de la autora de literatura juvenil iba a tener éxito.
+PRETEST	BNI17	El general británico creyó que los ataques habían cesado.	Los ataques habían cesado.
+PRETEST	BNI18	El cantante cubano sabía que la canción iba a ser todo un éxito.	La canción iba a ser un éxito.
+PRETEST	BNI19	El hijo de Nicole Kidman oyó que le estaban llamando.	Estaban llamando al hijo de Nicole Kidman.
+PRETEST	BNI20	José Luis Rodríguez Zapatero dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	BNI21	Fernando Simón creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	BNI22	Ana Pastor sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	BNI23	Sergio Ramos anunció que iba a cambiar de equipo.	Sergio Ramos iba a cambiar de equipo.
+PRETEST	BNI24	Julian Lopetegui sospechaba que el equipo contrario había comprado al árbrito.	El equipo contrario había comprado al árbitro.
+PRETEST	BNI25	J.K. Rowling intuía que su nueva novela iba a tener éxito.	La nueva novela de J.K. Rowling iba a tener éxito.
+PRETEST	BNI26	Bernard Montgomery creyó que los ataques habían cesado.	Los ataques habían cesado.
+PRETEST	BNI27	Maykel Osorbo sabía que la canción iba a ser todo un éxito.	La canción iba a ser un éxito.
+QUIJOTE	BNI28	Lotario: Creo que es tan bueno como el primero.	Es tan bueno como el primero.
+XNLI	BNI29	Bin Laden sabía que el FBI había retenido a Moussaoui.	El FBI había retenido a Moussaoui. 
+XNLI	BNI30	Bin Laden sabía que Moussaoui había sido detenido.	Moussaoui había sido detenido.
+XNLI	BNI31	Los operadores sabían que los rescates en techos eran imposibles.	Los rescates en techos eran imposibles. 
+OLD_NEWS	BNI32	La protagonista de esta apasionante historia sospecha que este encuentro es tan sólo una pieza en el malvado plan Toribio.	Este encuentro es tan sólo una pieza en el malvado plan Toribio. 
+OLD_NEWS	BNI33	La persona me declaró que eso era una iglesia.	Eso era una iglesia.
+OLD_NEWS	BNI34	El hombrón duda que es una carta segura de hits bailables para 2011.	Es una carta segura de hits bailables para 2011.  
+OLD_NEWS	BNI35	Algunos lectores entendían que se trataba, precisamente, de una crítica a la banalidad.	Precisamente se trataba de una crítica a la banalidad. 
+OLD_NEWS	BNI36	Un caminante distraído había advertido que allí se ocultaba un sofisticado equipo transmisor.	Allí se ocultaba un sofisticado equipo transmisor. 
+OLD_NEWS	BNI37	El lobisón sabe que todo aquello es más una pieza en el malvado plan de Toribio.	Todo aquello es más una pieza en el malvado plan de Toribio.
+OLD_NEWS	BNI38	Jorge Chávez sabía que lo peor estaba por venir.	Lo peor estaba por venir.
+OLD_NEWS	BNI39	Manassero olvidó que la hijita se llama Micaela.	La hijita se llama Micaela. 
+OLD_NEWS	BNI40	Los críticos de las acciones niponas dudan que se trata la mejor excusa para cubrir una caza comercial prohibida por comunidad internacional.	Se trata la mejor excusa para cubrir una caza comercial prohibida por comunidad internacional. 
+OLD_NEWS	BNI41	Lapiedra sabía que la joven colombiana era menor de edad.	La joven colombiana era menor de edad. 
+OLD_NEWS	BNI42	Francisco Macri pensaba que iba a ser cabeza de una de las familias industriales más grandes y poderosas el país.	Francisco Macri iba a ser cabeza de una de las familias industriales más grandes y poderosas el país. 
+OLD_NEWS	BNI43	El espectador casual sabía que estaba viendo la primera experiencia de FlashMob en el país.	El espectador estaba viendo la primera experiencia de FlashMob en el país. 
+OLD_NEWS	BNI44	El 90% de los padres de niños con sobrepeso aceptan que sus hijos tienen un problema.	Los niños con sobrepeso tienen un problema.
+UN_2000	BNI45	Según las investigaciones, el policía había podido ver que Baduan estaba desarmado.	Baduan estaba desarmado. 
+UN_2000	BNI46	Algunos representantes van a creer que el ex Rey de Libia antes de 1969 era de Mustaghanem, Argelia.	El ex Rey de Libia antes de 1969 era de Mustaghanem, Argelia . 
+UN_2000	BNI47	Algunos representantes aquí presentes saben que el ex Presidente de Túnez era natural de Libia.	El ex Presidente de Túnez era natural de Libia.
+UN_2000	BNI48	Más del 90% de los africanos infectados saben que son portadores la enfermedad.	Más del 90% de los africanos son portadores de la enfermedad.
+UN_2000	BNI49	Algunos delegados gubernamentales saben que también las mujeres son seres humanos.	Las mujeres son seres humanos. 
+UN_2000	BNI50	Sin embargo, Sutton ha probado que había pagado los honorarios.	Sutton había pagado los honorarios.
+UN_2000	BNI51	La mayor parte de los interlocutores de la misión dudaban que el Presidente Taylor ejercía una gran influencia e incluso control directo sobre FRU.	El Presidente Taylor ejercía una gran influencia e incluso control directo sobre FRU. 
+UN_2000	BNI52	En relación con los gastos del viaje a la India y Manila, Taisei ha demostrado que esos son gastos temporales extraordinarios.	Los gastos del viaje a la India y Manila son gastos temporales extraordinarios.
+UN_2000	BNI53	Los familiares de los muertos sabían que habían sido enterrados en el lote 29.	Los muertos habían sido enterrados en el lote 29.
+OLD_NEWS	BNI54	Entonces naturalmente Isabella sabía que la película iba a tener tal éxito.	La película iba a tener tal éxito.
+OLD_NEWS	BNI55	Gordon-Levitt sentía que estaba interpretando a Will.	Gordon-Levitt estaba interpretando a Will.
+OLD_NEWS	BNI56	Santos mencionó que la carta de los presidentes del Consejo de Estado y de la Corte está llena de lugares comunes y sin ningún argumento jurídico.	La carta de los presidentes del Consejo de Estado y de la Corte está llena de lugares comunes y sin ningún argumento jurídico.
+OLD_NEWS	BNI57	Stephanie sabe que se había metido en un lío.	Stephanie se había metido en un lío.
+OLD_NEWS	BNI58	Humala ha dicho que el modelo económico debe mantenerse intacto, sin cambios.	El modelo económico debe mantenerse intacto, sin cambios.
+OLD_NEWS	BNI59	Arias consideró que era falta.	Era falta.
+OLD_NEWS	BNI60	Yilmaz puede considerar que se ha producido una violación de la Convención.	Se ha producido una violación de la Convención.
+UN_2000	BNI61	El Presidente Shevardnadze: Puedo ocultar que la realidad del mundo de hoy nos decepciona en cierta manera.	La realidad del mundo de hoy les decepciona en cierta manera.
+UN_2000	BNI62	El Secretario General: Quiero decir que esta Organización debe ser capaz de ganar por sí sola todas estas batallas.	Esta Organización debe ser capaz de ganar por sí sola todas estas batallas.
+UN_2001	BNI63	Los autores han demostrado satisfactoriamente que corren un riesgo mayor que cualquier otro tamil residente en Colombo.	Los autores corren un riesgo mayor que cualquier otro tamil residente en Colombo. 
+UN_2001	BNI64	Más del 80% de los infectados saben que son portadores del VIH/SIDA.	Ellos son portadores del VIH/SIDA.
+UN_2002	BNI65	El representante de Israel puede entender que Israel es una potencia ocupante.	Israel es una potencia ocupante.
+UN_2002	BNI66	En ese momento, el autor sabía que su primo había sido ejecutado.	El primo del autor había sido ejecutado.
+UN_2002	BNI67	La Representante Especial puede ignorar que la guerrilla viola los derechos de los defensores de los derechos humanos.	La guerrilla viola los derechos de los defensores de los derechos humanos. 
+UN_2002	BNI68	Miembros del Grupo Especial: Sobre la base de esos hechos podemos concluir que las Comunidades Europeas exploraron las posibilidades de hacer uso de soluciones constructivas.	Las Comunidades Europeas exploraron las posibilidades de hacer uso de soluciones constructivas.
+UN_2002	BNI69	Miembros de la delegación de Viet Nam: Consideramos que hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.	Hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.
+DAVES	BNI70	El periodista sospechaba que el actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.	El actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.
+DAVES	BNI71	Los profesores podrán decir que el chico es tonto.	El chico es tonto.
+OLD_NEWS	BNI72	La conductora sabía que las fotos del desnudo de Susana estaban en internet.	Las fotos del desnudo de Susana estaban en internet. 
+OLD_NEWS	BNI73	Los abogados: Creemos que una persona amenazada o con problemas iba a andar así.	Una persona amenazada o con problemas iba a andar así.
+UN_2000	BNI74	Miembro de la Red del Tercer Mundo: Estamos negando que en el Norte de África han aumentado las desigualdades.	En el Norte de África han aumentado las desigualdades.
+UN_2000	BNI75	Algunos saben que una parte de la familia o clan del Presidente del Chad vive en el Chad.	Una parte de la familia o clan del Presidente del Chad vive en el Chad.
+UN_2000	BNI76	El autor puede pretender que es víctima de violación de sus derechos conforme al párrafo 4 del artículo 6 del Pacto.	El autor es víctima de violación de sus derechos conforme al párrafo 4 del artículo 6 del Pacto.
+UN_2000	BNI77	¿Acaso sabe el Sr. Bustani que Israel está armado hasta los dientes con armas nucleares y con las aeronaves y los tanques más avanzados?	Israel está armado hasta los dientes con armas nucleares y con las aeronaves y los tanques más avanzados.
+UN_2002	BNI78	¿Acaso sabemos todos que cada persona es un microcosmos?	Cada persona es un microcosmos.
+UN_2002	BNI79	Los autores del informe mencionan que sólo recursos internos de naturaleza judicial penal pueden ser entendidos como recursos efectivos.	Sólo recursos internos de naturaleza judicial penal pueden ser entendidos como recursos efectivos.
+UN_2001	BNI80	Los reclamantes demostraron que existían circunstancias justificantes de fundadas esperanzas de realizar otras actividades del mismo carácter.	 Existían circunstancias justificantes de fundadas esperanzas de realizar otras actividades del mismo carácter.
+UN_2001	BNI81	Los dirigentes albaneses de Kosovo deben olvidar que gracias a la comunidad internacional lograron contener la embestida del régimen de Milosevic.	Gracias a la comunidad internacional los dirigentes albaneses lograron contener la embestida del régimen de Milosevic.
+UN_2003	BNI82	Sr. Sanders de los Países Bajos: Nosotros creemos que se trata de una solución muy efectiva.	Se trata de una solución muy efectiva.
+UN_2003	BNI83	Los palestinos entienden que los conflictos deben solucionarse por medio de la negociación y no por medio del terror.	Los conflictos deben solucionarse por medio de la negociación y no por medio del terror.
+UN_2003	BNI84	Los abogados deben pensar que tienen un cheque en blanco contra el fondo de asistencia letrada.	Los abogados tienen un cheque en blanco contra el fondo de asistencia letrada.
+UN_2003	BNI85	El Observador de Palestina dijo que el conflicto debe solucionarse.	El conflicto debe solucionarse.
+UN_2003	BNI86	Casi el 87% de los jóvenes de entre 15 y 19 años creen que corren riesgo.	Los jóvenes de entre 15 y 19 años corren riesgo.
+UN_2003	BNI87	Las víctimas sabían que se había violado un derecho.	Se había violado un derecho.
+UN_2003	BNI88	El representante de Israel ha mencionado que Israel ha anexado de facto las tierras en disputa.	Israel ha anexado de facto las tierras en disputa.
+UN_2003	BNI89	El representante de Israel ha mencionado que el muro se ha construido en tierras en disputa.	El muro se ha construido en tierras en disputa.
+UN_2003	BNI90	Los reclamantes han demostrado que pagos supuestamente adeudados estaban efectivamente aplazados.	Pagos supuestamente adeudados estaban efectivamente aplazados.
+PRETEST	BNC1	El gobierno dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	BNC2	El comité de expertos creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	BNC3	El periódico sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	BNC4	La junta directiva pensó que la reunión con los abogados había ido bien.	La reunión con los abogados había ido bien. 
+PRETEST	BNC5	La familia anunció que había recortado gastos.	La familia había recortado gastos.
+PRETEST	BNC6	La universidad anunció que las clases iban a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	BNC7	El sindicato sospechaba que el gobierno no iba a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	BNC8	El ministerio comunicó que iba a implementar nuevas medidas.	El ministerio iba a implementar nuevas medidas.
+PRETEST	BNC9	El canal de televisión anunció que la periodista iba a ser despedida.	La periodista iba a ser despedida.
+PRETEST	BNC10	El gobierno nacional dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	BNC11	El comité de expertos del gobierno creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	BNC12	El periódico nacional sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	BNC13	La junta directiva del club de fútbol pensó que la reunión con los abogados había ido bien.	La reunión con los abogados había ido bien. 
+PRETEST	BNC14	La familia real anunció que había recortado gastos.	La familia real había recortado gastos.
+PRETEST	BNC15	La universidad madrileña anunció que las clases iban a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	BNC16	El sindicato de la empresa sospechaba que el gobierno no iba a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	BNC17	El Ministerio de Sanidad comunicó que iba a implementar nuevas medidas.	El Ministerio de Sanidad iba a implementar nuevas medidas.
+PRETEST	BNC18	La televisión pública anunció que la periodista iba a ser despedida.	La periodista iba a ser despedida.
+PRETEST	BNC19	El gobierno español dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	BNC20	El comité de expertos del gobierno español creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	BNC21	La Razón sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	BNC22	La junta directiva del Barça pensó que la reunión con los abogados había ido bien.	La reunión con los abogados había ido bien.
+PRETEST	BNC23	La familia real española anunció que había recortado gastos.	La familia real española había recortado gastos.
+PRETEST	BNC24	La UCM anunció que las clases iban a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	BNC25	Comisiones Obreras sospechaba que el gobierno no iba a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	BNC26	El Ministerio de Sanidad español comunicó que iba a implementar nuevas medidas.	El Ministerio de Sanidad español iba a implementar nuevas medidas.
+PRETEST	BNC27	RTVE anunció que la periodista iba a ser despedida.	La periodista iba a ser despedida.
+DAVES	BNC28	Muchos centros educativos saben que es una competencia.	Es una competencia. 
+OLD_NEWS	BNC29	La mayoría de los clientes sabe que él es escritor.	Él es escritor.
+UN_2000	BNC30	Sin un órgano de esa clase la Conferencia de Desarme puede afirmar que está haciendo frente a las amenazas más graves para la seguridad internacional.	La Conferencia de Desarme está haciendo frente a las amenazas más graves para la seguridad internacional. 
+UN_2000	BNC31	La mayoría de organizaciones regionales consideraba que la protección de los niños afectados por los conflictos armados pertenecía a sus programas.	La protección de los niños afectados por los conflictos armados problema pertenecía a los programas de las organizaciones regionales.
+UN_2000	BNC32	En otras palabras, las Naciones Unidas pueden afirmar que la composición actual del Conferencia de Desarme  es representativa de todos sus miembros.	La composición actual del Consejo de Seguridad es representativa de todos sus miembros. 
+UN_2000	BNC33	El Comité debe considerar que el asunto se limita a un examen de fondo de la comunicación.	El asunto se limita a un examen de fondo de la comunicación. 
+UN_2000	BNC34	El Comité Permanente ha considerado que las opiniones expresadas en 1996 por el Comité Preparatorio constituían los trabajos preparatorios.	Las opiniones expresadas en 1996 por el Comité Preparatorio constituían los trabajos preparatorios. 
+UN_2000	BNC35	El personal de la Oficina de las Naciones Unidas en Nairobi advirtió que el número de cuenta indicado en el fax de la Misión era ligeramente distinto.	El número de cuenta indicado en el fax de la Misión era ligeramente distinto.
+UN_2000	BNC36	La comunidad internacional debía dudar que aún existía el racismo.	El racismo aún existía.
+UN_2000	BNC37	Mientras el Comité encargado del Cumplimiento determine que dicha Parte no cumple una o varias de las condiciones enunciadas en el párrafo 1.	Dicha Parte no cumple una o varias de las condiciones enunciadas en el párrafo 1.
+UN_2000	BNC38	Así pues, el Gobierno niega que ha permitido a los acusados ser examinados y tratados por sus propios médicos.	El Gobierno ha permitido a los acusados ser examinados y tratados por sus propios médicos.
+UN_2000	BNC39	Los primeros gobiernos quisieron admitir que la pobreza constituía un problema.	La pobreza constituía un problema.
+UN_2000	BNC40	Ahora bien, la Comisión debiera olvidar que el Grupo de Trabajo sobre las Poblaciones Indígenas es la única instancia permanente abierta de manera democrática a los indígenas.	El Grupo de Trabajo sobre las Poblaciones Indígenas es la única instancia permanente abierta de manera democrática a los indígenas. 
+UN_2000	BNC41	Eritrea sospechaba que esto formaba parte de un proyecto coherente a largo plazo organizado por las autoridades de Etiopía.	Esto formaba parte de un proyecto coherente a largo plazo organizado por las autoridades de Etiopía.
+OLD_NEWS	BNC42	La gente entiende que discapacidad es diferente a incapacidad.	Discapacidad es diferente a incapacidad.
+UN_2001	BNC43	Suiza puede negar que abrigaba esperanzas de que se aprobase el documento.	Suiza abrigaba esperanzas de que se aprobase el documento. 
+UN_2001	BNC44	Mi delegación cree que esta situación es prometedora.	Esta situación es prometedora.
+UN_2001	BNC45	Los Estados Unidos consideran que en cada territorio el proceso de descolonización debe transcurrir de la misma manera.	En cada territorio el proceso de descolonización debe transcurrir de la misma manera. 
+UN_2001	BNC46	La comunidad internacional debe olvidar que para ciertos países la acogida de los refugiados y los daños ocasionados al medio ambiente por su prolongada estadía suponen una enorme carga.	Para ciertos países la acogida de los refugiados y los daños ocasionados al medio ambiente por su prolongada estadía suponen una enorme carga.
+UN_2001	BNC47	La Secretaría debe considerar que la publicación en el sitio de la CDI en la web sustituye a la publicación en los idiomas oficiales de las Naciones Unidas.	La publicación en el sitio de la CDI en la web sustituye a la publicación en los idiomas oficiales de las Naciones Unidas.
+UN_2001	BNC48	La República de Armenia considera que se ha transferido el equipo.	Se ha transferido el equipo.
+UN_2001	BNC49	La Oficina del Director de la Fiscalía había confirmado que seguían pendientes las acusaciones contra los carceleros.	Seguían pendientes las acusaciones contra los carceleros.
+UN_2001	BNC50	El país anfitrión había reconocido que el requerimiento de congelación era intrínsecamente ilícito.	El requirimiento de congelación era intrínsicamente ilícito.
+UN_2001	BNC51	El mundo debe olvidar que es una familia humana, independientemente de las diferencias.	El mundo es una familia humana, independientemente de las diferencias.
+UN_2001	BNC52	El Grupo de Expertos comprende que la población de la región oriental del país estaba amenazada por hambruna. 	La población de la región oriental del país estaba amenazada por hambruna.
+UN_2001	BNC53	Sin embargo, el Consejo debe pensar que esas cifras representan la idea de un fiscal a la búsqueda de casos.	Esas cifras representan la idea de un fiscal a la búsqueda de casos.
+UN_2001	BNC54	National demostró que la cuenta ya no existe.	La cuenta ya no existe.
+UN_2001	BNC55	Los medios de difusión general sabían que los periodistas indígenas estaban también preparados para tener una actitud crítica.	Los periodistas indígenas estaban también preparados para tener una actitud crítica. 
+UN_2001	BNC56	La Comisión oculta que siguen existiendo ciertos problemas en la práctica.	Siguen existiendo ciertos problemas en la práctica.
+UN_2001	BNC57	El Consejo debe olvidar que el pueblo palestino ha vivido bajo una de las ocupaciones militares más prolongadas de la historia moderna.	El pueblo palestino ha vivido bajo una de las ocupaciones militares más prolongadas de la historia moderna.
+UN_2001	BNC58	La comunidad internacional debe olvidar que el sector menos atendido es el de las PYMES.	El sector menos atendido es el de las PYMES.
+UN_2002	BNC59	Su Gobierno niega que la aplicación práctica de esas disposiciones deja mucho que desear.	La aplicación práctica de esas disposiciones deja mucho que desear.
+UN_2002	BNC60	El Estado Parte discute que tales decisiones debían tomarse respetando las disposiciones del artículo 25 del Pacto.	Tales decisiones debían tomarse respetando las disposiciones del artículo 25 del Pacto.
+UN_2002	BNC61	Los gobiernos pueden negar que los jóvenes tienen relaciones sexuales.	Los jóvenes tienen relaciones sexuales. 
+UN_2002	BNC62	El Comité puede considerar que se ha violado el párrafo 1 del artículo 9 del Pacto.	Se ha violado el párrafo 1 del artículo 9 del Pacto.
+UN_2002	BNC63	La empresa pudo demostrar que se había cumplido esa disposición.	Se había cumplido esa disposición. 
+UN_2002	BNC64	Uganda puede suponer que la creación de una Comisión para investigar estas imputaciones es suficiente.	La creación de una Comisión para investigar estas imputaciones es suficiente.
+UN_2002	BNC65	El Grupo ha considerado que las cantidades ajustadas forman parte de pérdidas pertinentes por insuficiencia de pruebas	Las cantidades ajustadas forman parte de pérdidas pertinentes por insuficiencia de pruebas.
+UN_2002	BNC66	La Polytechna ha demostrado que no tenía otra opción salvo la de obtener créditos e incurrir en obligaciones ulteriores de adeudamiento con sus clientes locales.	La Polytechna no tenía otra opción salvo la de obtener créditos e incurrir en obligaciones ulteriores de adeudamiento con sus clientes locales.
+UN_2002	BNC67	La Santa Fe descubrió que la KDC había incurrido en costos no reembolsados de movilización de las torres.	La KDC había incurrido en costos no reembolsados de movilización de las torres.
+UN_2002	BNC68	La Sasref pudo demostrar que se habían gastado 500.000 SRls.	Se habían gastado 500.000 SRls.
+UN_2002	BNC69	El Consejo de Seguridad olvidará que ha venido recordando sistemáticamente a la CCD-Goma su obligación de desmilitarizar la ciudad de Kisangani.	El Consejo de Seguridad ha venido recordando sistemáticamente a la CCD-Goma su obligación de desmilitarizar la ciudad de Kisangani.
+UN_2002	BNC70	Un Estado podrá aducir que una reserva está viciada por el hecho de haber sido formulada en infracción de una disposición de su derecho interno.	Una reserva está viciada por el hecho de haber sido formulada en infracción de una disposición de su derecho interno.
+UN_2002	BNC71	El Comité quería decir que Lituania ha incorporado una parte de la Convención y otra no.	Lituania ha incorporado una parte de la Convención y otra no.
+DAVES	BNC72	El partido comunista sospechaba que el actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.	El actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.
+UN_2000	BNC73	La “mayoría” negaba que el Mandato podía haber reconocido el derecho de todos los Estados Miembros de la Sociedad a hacer cumplir las obligaciones al mandatario.	El Mandato podía haber reconocido el derecho de todos los Estados Miembros de la Sociedad a hacer cumplir las obligaciones al mandatario.
+UN_2000	BNC74	El Foro Masculino de Dinamarca cree que hay contradicción entre el interés del hijo y la custodia compartida.	Hay contradicción entre el interés del hijo y la custodia compartida.
+UN_2000	BNC75	El Grupo de Trabajo puede sostener que la detención de Pedro Katunda Kambangu viola el Pacto Internacional de Derechos Civiles y Políticos.	La detención de Pedro Katunda Kambangu viola el Pacto Internacional de Derechos Civiles y Políticos.
+UN_2003	BNC76	En el asunto Barcelona Traction la Corte declaró que la sociedad debía haber dejado de existir en el lugar de su constitución.	La sociedad debía haber dejado de existir en el lugar de su constitución. 
+UN_2003	BNC77	En el momento de la ratificación, México declaró que no reconocía la competencia del Comité prevista en el artículo 20 de la Convención.	México no reconocía la competencia del Comité prevista en el artículo 20 de la Convención.
+UN_2003	BNC78	El Gobierno del territorio considera que tiene mandato para conseguir la independencia.	El Gobierno del territorio tiene mandato para conseguir la independencia. 
+UN_2003	BNC79	La Asamblea General podría haber previsto que esa “conveniencia” era un gran eufemismo.	Esa "conveniencia" era un gran eufemismo.
+UN_2003	BNC80	Israel niega que en el ejercicio de su derecho inherente a defenderse del terrorismo más brutal debe actuar dentro de los límites del derecho internacional.	En el ejercicio de su derecho inherente a defenderse del terrorismo más brutal Israel debe actuar dentro de los límites del derecho internacional.
+UN_2003	BNC81	La multitud distinguió que se trataba de vehículos de las Naciones Unidas.	Se trataba de vehículos de las Naciones Unidas.
+UN_2003	BNC82	El Reino Unido sabía que existía una relación entre consumo de energía en sus casas o autos y el cambio climático.	Existía una relación entre consumo de energía en sus casas o autos y el cambio climático.
+UN_2003	BNC83	El Gobierno de Nyamena podía ignorar que en su frontera se estaba preparando una campaña militar contra las ciudades centroafricanas.	En la frontera de Nyamena se estaba preparando una campaña militar contra las ciudades centroafricanas.
+UN_2003	BNC84	El Gobierno de Haití consideraría que las motivaciones políticas justifican la denegación de peticiones de extradición de presuntos terroristas.	Las motivaciones políticas justifican la denegación de peticiones de extradición de presuntos terroristas. 
+UN_2003	BNC85	El Iraq demostró que estaba cambiando de actitud de manera radical.	El Iraq estaba cambiando de actitud de manera radical.
+UN_2003	BNC86	El Grupo considera que se justifican medidas de restablecimiento de la vegetación en las zonas dañadas por alquitranato.	Se justifican medidas de restablecimiento de la vegetación en las zonas dañadas por alquitranato.
+OLD_NEWS	BNC87	La cadena sabía que las fotos del desnudo de Susana estaban en internet.	Las fotos del desnudo de Susana estaban en internet. 
+UN_2002	BNC88	La delegación de Viet Nam considera que hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.	Hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.
+UN_2003	BNC89	El Gobierno de Palestina entiende que los conflictos deben solucionarse por medio de la negociación y no por medio del terror.	Los conflictos deben solucionarse por medio de la negociación y no por medio del terror.
+OLD_NEWS	BNC90	El Gobierno de Perú ha dicho que el modelo económico debe mantenerse intacto, sin cambios.	El modelo económico debe mantenerse intacto, sin cambios.
+PRETEST	INI1	El hijo no oyó que le estaban llamando.	Estaban llamando al hijo.
+PRETEST	INI2	El presidente no dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	INI3	El experto no creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	INI4	La periodista no sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	INI5	El jugador no anunció que iba a cambiar de equipo.	El jugador iba a cambiar de equipo.
+PRETEST	INI6	El entrenador no sospechaba que el equipo contrario había comprado al árbrito.	El equipo contrario había comprado al árbitro.
+PRETEST	INI7	La escritora no intuía que su nueva novela iba a tener éxito.	La nueva novela de la escritora iba a tener éxito.
+PRETEST	INI8	El general no creyó que los ataques habían cesado.	Los ataques habían cesado.
+PRETEST	INI9	El cantante no sabía que la canción iba a ser todo un éxito.	La canción iba a ser un éxito.
+PRETEST	INI10	El hijo de la actriz no oyó que le estaban llamando.	Estaban llamando al hijo de la actriz.
+PRETEST	INI11	El presidente de España no dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	INI12	El experto en epidemias no creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	INI13	La periodista de LaSexta no sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	INI14	El jugador de fútbol no anunció que iba a cambiar de equipo.	El jugador de fútbol iba a cambiar de equipo.
+PRETEST	INI15	El entrenador de fútbol no sospechaba que el equipo contrario había comprado al árbrito.	El equipo contrario había comprado al árbrito.
+PRETEST	INI16	La autora de literatura juvenil no intuía que su nueva novela iba a tener éxito.	La nueva novela de la autora de literatura juvenil iba a tener éxito.
+PRETEST	INI17	El general británico no creyó que los ataques habían cesado.	Los ataques habían cesado.
+PRETEST	INI18	El cantante cubano no sabía que la canción iba a ser todo un éxito.	La canción iba a ser un éxito.
+PRETEST	INI19	El hijo de Nicole Kidman no oyó que le estaban llamando.	Estaban llamando al hijo de Nicole Kidman.
+PRETEST	INI20	José Luis Rodríguez Zapatero no dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	INI21	Fernando Simón no creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	INI22	Ana Pastor no sabía que la noticia era falsa.	La noticia era falsa. 
+PRETEST	INI23	Sergio Ramos no anunció que iba a cambiar de equipo.	Sergio Ramos iba a cambiar de equipo.
+PRETEST	INI24	Julian Lopetegui no sospechaba que el equipo contrario había comprado al árbrito.	El equipo contrario había comprado al árbitro.
+PRETEST	INI25	J.K. Rowling no intuía que su nueva novela iba a tener éxito.	La nueva novela de J.K. Rowling iba a tener éxito.
+PRETEST	INI26	Bernard Montgomery no creyó que los ataques habían cesado.	Los ataques habían cesado.
+PRETEST	INI27	Maykel Osorbo no sabía que la canción iba a ser todo un éxito.	La canción iba a ser un éxito.
+QUIJOTE	INI28	Lotario:  No creo que es tan bueno como el primero.	Es tan bueno como el primero.
+XNLI	INI29	Bin Laden no sabía que el FBI había retenido a Moussaoui.	El FBI había retenido a Moussaoui. 
+XNLI	INI30	Bin Laden no sabía que Moussaoui había sido detenido.	Moussaoui había sido detenido.
+XNLI	INI31	Los operadores no sabían que los rescates en techos eran imposibles.	Los rescates en techos eran imposibles. 
+OLD_NEWS	INI32	La protagonista de esta apasionante historia no sospecha que este encuentro es tan sólo una pieza en el malvado plan Toribio.	Este encuentro es tan sólo una pieza en el malvado plan Toribio. 
+OLD_NEWS	INI33	La persona no me declaró que eso era una iglesia.	Eso era una iglesia.
+OLD_NEWS	INI34	El hombrón no duda que es una carta segura de hits bailables para 2011.	Es una carta segura de hits bailables para 2011.  
+OLD_NEWS	INI35	Algunos lectores no entendían que se trataba, precisamente, de una crítica a la banalidad.	Precisamente se trataba de una crítica a la banalidad. 
+OLD_NEWS	INI36	Un caminante distraído no hubiera advertido que allí se ocultaba un sofisticado equipo transmisor.	Allí se ocultaba un sofisticado equipo transmisor. 
+OLD_NEWS	INI37	El lobisón no sabe que todo aquello es más una pieza en el malvado plan de Toribio.	Todo aquello es más una pieza en el malvado plan de Toribio.
+OLD_NEWS	INI38	Jorge Chávez no sabía que lo peor estaba por venir.	Lo peor estaba por venir.
+OLD_NEWS	INI39	Manassero no olvidó que la hijita se llama Micaela.	La hijita se llama Micaela. 
+OLD_NEWS	INI40	Los críticos de las acciones niponas no dudan que se trata la mejor excusa para cubrir una caza comercial prohibida por comunidad internacional.	Se trata la mejor excusa para cubrir una caza comercial prohibida por comunidad internacional. 
+OLD_NEWS	INI41	Lapiedra no sabía que la joven colombiana era menor de edad.	La joven colombiana era menor de edad. 
+OLD_NEWS	INI42	Francisco Macri no pensaba que iba a ser cabeza de una de las familias industriales más grandes y poderosas el país.	Francisco Macri iba a ser cabeza de una de las familias industriales más grandes y poderosas el país. 
+OLD_NEWS	INI43	El espectador casual no sabía que estaba viendo la primera experiencia de FlashMob en el país.	El espectador estaba viendo la primera experiencia de FlashMob en el país. 
+OLD_NEWS	INI44	El 90% de los padres de niños con sobrepeso no aceptan que sus hijos tienen un problema.	Los niños con sobrepeso tienen un problema.
+UN_2000	INI45	Según las investigaciones, el policía no había podido ver que Baduan estaba desarmado.	Baduan estaba desarmado. 
+UN_2000	INI46	Algunos representantes no van a creer que el ex Rey de Libia antes de 1969 era de Mustaghanem, Argelia.	El ex Rey de Libia antes de 1969 era de Mustaghanem, Argelia . 
+UN_2000	INI47	Algunos representantes aquí presentes no saben que el ex Presidente de Túnez era natural de Libia.	El ex Presidente de Túnez era natural de Libia.
+UN_2000	INI48	Más del 90% de los africanos infectados no saben que son portadores la enfermedad.	Más del 90% de los africanos son portadores de la enfermedad.
+UN_2000	INI49	Algunos delegados gubernamentales no saben que también las mujeres son seres humanos.	Las mujeres son seres humanos. 
+UN_2000	INI50	Sin embargo, Sutton no ha probado que había pagado los honorarios.	Sutton había pagado los honorarios.
+UN_2000	INI51	La mayor parte de los interlocutores de la misión no dudaban que el Presidente Taylor ejercía una gran influencia e incluso control directo sobre FRU.	El Presidente Taylor ejercía una gran influencia e incluso control directo sobre FRU. 
+UN_2000	INI52	En relación con los gastos del viaje a la India y Manila, Taisei no ha demostrado que esos son gastos temporales extraordinarios.	Los gastos del viaje a la India y Manila son gastos temporales extraordinarios.
+UN_2000	INI53	Los familiares de los muertos no sabían que habían sido enterrados en el lote 29.	Los muertos habían sido enterrados en el lote 29.
+OLD_NEWS	INI54	Entonces naturalmente Isabella no sabía que la película iba a tener tal éxito.	La película iba a tener tal éxito.
+OLD_NEWS	INI55	Gordon-Levitt no sentía que estaba interpretando a Will.	Gordon-Levitt estaba interpretando a Will.
+OLD_NEWS	INI56	Santos no mencionó que la carta de los presidentes del Consejo de Estado y de la Corte está llena de lugares comunes y sin ningún argumento jurídico.	La carta de los presidentes del Consejo de Estado y de la Corte está llena de lugares comunes y sin ningún argumento jurídico.
+OLD_NEWS	INI57	Stephanie no sabe que se había metido en un lío.	Stephanie se había metido en un lío.
+OLD_NEWS	INI58	Humala no ha dicho que el modelo económico debe mantenerse intacto, sin cambios.	El modelo económico debe mantenerse intacto, sin cambios.
+OLD_NEWS	INI59	Arias no consideró que era falta.	Era falta.
+OLD_NEWS	INI60	Yilmaz no puede considerar que se ha producido una violación de la Convención.	Se ha producido una violación de la Convención.
+UN_2000	INI61	El Presidente Shevardnadze: No puedo ocultar que la realidad del mundo de hoy nos decepciona en cierta manera.	La realidad del mundo de hoy les decepciona en cierta manera.
+UN_2000	INI62	El Secretario General: No quiero decir que esta Organización debe ser capaz de ganar por sí sola todas estas batallas.	Esta Organización debe ser capaz de ganar por sí sola todas estas batallas.
+UN_2001	INI63	Los autores no han demostrado satisfactoriamente que corren un riesgo mayor que cualquier otro tamil residente en Colombo.	Los autores corren un riesgo mayor que cualquier otro tamil residente en Colombo. 
+UN_2001	INI64	Más del 80% de los infectados no saben que son portadores del VIH/SIDA.	Ellos son portadores del VIH/SIDA.
+UN_2002	INI65	El representante de Israel no puede entender que Israel es una potencia ocupante.	Israel es una potencia ocupante.
+UN_2002	INI66	En ese momento, el autor no sabía que su primo había sido ejecutado.	El primo del autor había sido ejecutado.
+UN_2002	INI67	La Representante Especial no puede ignorar que la guerrilla viola los derechos de los defensores de los derechos humanos.	La guerrilla viola los derechos de los defensores de los derechos humanos. 
+UN_2002	INI68	Miembros del Grupo Especial: Sobre la base de esos hechos no podemos concluir que las Comunidades Europeas exploraron las posibilidades de hacer uso de soluciones constructivas.	Las Comunidades Europeas exploraron las posibilidades de hacer uso de soluciones constructivas.
+UN_2002	INI69	Miembros de la delegación de Viet Nam: No consideramos que hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.	Hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.
+DAVES	INI70	El periodista no sospechaba que el actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.	El actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.
+DAVES	INI71	Los profesores no podrán decir que el chico es tonto.	El chico es tonto.
+OLD_NEWS	INI72	La conductora no sabía que las fotos del desnudo de Susana estaban en internet.	Las fotos del desnudo de Susana estaban en internet. 
+OLD_NEWS	INI73	Los abogados: No creemos que una persona amenazada o con problemas iba a andar así.	Una persona amenazada o con problemas iba a andar así
+UN_2000	INI74	Miembro dde la Red del Tercer Mundo: No estamos negando que en el Norte de África han aumentado las desigualdades.	En el Norte de África han aumentado las desigualdades.
+UN_2000	INI75	Algunos no saben que una parte de la familia o clan del Presidente del Chad vive en el Chad.	Una parte de la familia o clan del Presidente del Chad vive en el Chad.
+UN_2000	INI76	El autor no puede pretender que es víctima de violación de sus derechos conforme al párrafo 4 del artículo 6 del Pacto.	El autor es víctima de violación de sus derechos conforme al párrafo 4 del artículo 6 del Pacto.
+UN_2000	INI77	¿Acaso no sabe el Sr. Bustani que Israel está armado hasta los dientes con armas nucleares y con las aeronaves y los tanques más avanzados?	Israel está armado hasta los dientes con armas nucleares y con las aeronaves y los tanques más avanzados.
+UN_2002	INI78	¿Acaso no sabemos todos que cada persona es un microcosmos?	Cada persona es un microcosmos.
+UN_2002	INI79	Los autores del informe no mencionan que sólo recursos internos de naturaleza judicial penal pueden ser entendidos como recursos efectivos.	Sólo recursos internos de naturaleza judicial penal pueden ser entendidos como recursos efectivos.
+UN_2001	INI80	Los reclamantes no demostraron que existían circunstancias justificantes de fundadas esperanzas de realizar otras actividades del mismo carácter.	 Existían circunstancias justificantes de fundadas esperanzas de realizar otras actividades del mismo carácter.
+UN_2001	INI81	Los dirigentes albaneses de Kosovo no deben olvidar que gracias a la comunidad internacional lograron contener la embestida del régimen de Milosevic.	Gracias a la comunidad internacional los dirigentes albaneses lograron contener la embestida del régimen de Milosevic.
+UN_2003	INI82	Sr. Sanders de los Países Bajos: Nosotros no creemos que se trata de una solución muy efectiva.	Se trata de una solución muy efectiva.
+UN_2003	INI83	Los palestinos no entienden que los conflictos deben solucionarse por medio de la negociación y no por medio del terror.	Los conflictos deben solucionarse por medio de la negociación y no por medio del terror.
+UN_2003	INI84	Los abogados no deben pensar que tienen un cheque en blanco contra el fondo de asistencia letrada.	Los abogados tienen un cheque en blanco contra el fondo de asistencia letrada.
+UN_2003	INI85	El Observador de Palestina no dijo que el conflicto debe solucionarse.	El conflicto debe solucionarse.
+UN_2003	INI86	Casi el 87% de los jóvenes de entre 15 y 19 años no creen que corren riesgo.	Los jóvenes de entre 15 y 19 años corren riesgo.
+UN_2003	INI87	Las víctimas no sabían que se había violado un derecho.	Se había violado un derecho.
+UN_2003	INI88	El representante de Israel no ha mencionado que Israel ha anexado de facto las tierras en disputa.	Israel ha anexado de facto las tierras en disputa.
+UN_2003	INI89	El representante de Israel no ha mencionado que el muro se ha construido en tierras en disputa.	El muro se ha construido en tierras en disputa.
+UN_2003	INI90	Los reclamantes no han demostrado que pagos supuestamente adeudados estaban efectivamente aplazados.	Pagos supuestamente adeudados estaban efectivamente aplazados.
+PRETEST	INC1	El gobierno no dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	INC2	El comité de expertos no creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	INC3	El periódico no sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	INC4	La junta directiva no pensó que la reunión con los abogados había ido bien.	La reunión con los abogados había ido bien. 
+PRETEST	INC5	La familia no anunció que habían recortado gastos.	La familia había recortado gastos.
+PRETEST	INC6	La universidad no anunció que las clases iban a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	INC7	El sindicato no sospechaba que el gobierno no iba a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	INC8	El ministerio no comunicó que iba a implementar nuevas medidas.	El ministerio iba a implementar nuevas medidas.
+PRETEST	INC9	El canal de televisión no anunció que la periodista iba a ser despedida.	La periodista iba a ser despedida.
+PRETEST	INC10	El gobierno nacional no dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	INC11	El comité de expertos del gobierno no creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	INC12	El periódico nacional no sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	INC13	La junta directiva del club de fútbol no pensó que la reunión con los abogados había ido bien.	La reunión con los abogados había ido bien.
+PRETEST	INC14	La familia real no anunció que había recortado gastos.	La familia real había recortado gastos.
+PRETEST	INC15	La universidad madrileña no anunció que las clases iban a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	INC16	El sindicato de la empresa no sospechaba que el gobierno no iba a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	INC17	El Ministerio de Sanidad no comunicó que iba a implementar nuevas medidas.	El Ministerio de Sanidad iba a implementar nuevas medidas.
+PRETEST	INC18	La televisión pública no anunció que la periodista iba a ser despedida.	La periodista iba a ser despedida.
+PRETEST	INC19	El gobierno español no dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	INC20	El comité de expertos del gobierno español no creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	INC21	La Razón no sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	INC22	La junta directiva del Barça no pensó que la reunión con los abogados había ido bien.	La reunión con los abogados había ido bien. 
+PRETEST	INC23	La familia real española no anunció que había recortado gastos.	La familia real española había recortado gastos.
+PRETEST	INC24	La UCM no anunció que las clases iban a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	INC25	Comisiones Obreras no sospechaba que el gobierno no iba a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	INC26	El Ministerio de Sanidad español no comunicó que iba a implementar nuevas medidas.	El Ministerio de Sanidad español iba a implementar nuevas medidas.
+PRETEST	INC27	RTVE no anunció que la periodista iba a ser despedida.	La periodista iba a ser despedida.
+DAVES	INC28	Muchos centros educativos no saben que es una competencia.	Es una competencia. 
+OLD_NEWS	INC29	La mayoría de los clientes no sabe que él es escritor.	Él es escritor.
+UN_2000	INC30	Sin un órgano de esa clase la Conferencia de Desarme no puede afirmar que está haciendo frente a las amenazas más graves para la seguridad internacional.	La Conferencia de Desarme está haciendo frente a las amenazas más graves para la seguridad internacional. 
+UN_2000	INC31	La mayoría de organizaciones regionales no consideraba que la protección de los niños afectados por los conflictos armados pertenecía a sus programas.	La protección de los niños afectados por los conflictos armados problema pertenecía a los programas de las organizaciones regionales.
+UN_2000	INC32	En otras palabras, las Naciones Unidas no pueden afirmar que la composición actual del Consejo de Seguridad es representativa de todos sus miembros.	La composición actual del Consejo de Seguridad es representativa de todos sus miembros. 
+UN_2000	INC33	El Comité no debe considerar que el asunto se limita a un examen de fondo de la comunicación.	El asunto se limita a un examen de fondo de la comunicación. 
+UN_2000	INC34	El Comité Permanente no ha considerado que las opiniones expresadas en 1996 por el Comité Preparatorio constituían los trabajos preparatorios.	Las opiniones expresadas en 1996 por el Comité Preparatorio constituían los trabajos preparatorios. 
+UN_2000	INC35	El personal de la Oficina de las Naciones Unidas en Nairobi no advirtió que el número de cuenta indicado en el fax de la Misión era ligeramente distinto.	El número de cuenta indicado en el fax de la Misión era ligeramente distinto.
+UN_2000	INC36	La comunidad internacional no debía dudar que aún existía el racismo.	El racismo aún existía.
+UN_2000	INC37	Mientras el Comité encargado del Cumplimiento no determine que dicha Parte no cumple una o varias de las condiciones enunciadas en el párrafo 1.	Dicha Parte no cumple una o varias de las condiciones enunciadas en el párrafo 1.
+UN_2000	INC38	Así pues, el Gobierno no niega que ha permitido a los acusados ser examinados y tratados por sus propios médicos.	El Gobierno ha permitido a los acusados ser examinados y tratados por sus propios médicos.
+UN_2000	INC39	Los primeros gobiernos no quisieron admitir que la pobreza constituía un problema.	La pobreza constituía un problema.
+UN_2000	INC40	Ahora bien, la Comisión no debiera olvidar que el Grupo de Trabajo sobre las Poblaciones Indígenas es la única instancia permanente abierta de manera democrática a los indígenas.	El Grupo de Trabajo sobre las Poblaciones Indígenas es la única instancia permanente abierta de manera democrática a los indígenas. 
+UN_2000	INC41	Eritrea no sospechaba que esto formaba parte de un proyecto coherente a largo plazo organizado por las autoridades de Etiopía.	Esto formaba parte de un proyecto coherente a largo plazo organizado por las autoridades de Etiopía.
+OLD_NEWS	INC42	La gente no entiende que discapacidad es diferente a incapacidad.	Discapacidad es diferente a incapacidad.
+UN_2001	INC43	Suiza no puede negar que abrigaba esperanzas de que se aprobase el documento.	Suiza abrigaba esperanzas de que se aprobase el documento. 
+UN_2001	INC44	Mi delegación no cree que esta situación es prometedora.	Esta situación es prometedora.
+UN_2001	INC45	Los Estados Unidos no consideran que en cada territorio el proceso de descolonización debe transcurrir de la misma manera.	En cada territorio el proceso de descolonización debe transcurrir de la misma manera. 
+UN_2001	INC46	La comunidad internacional no debe olvidar que para ciertos países la acogida de los refugiados y los daños ocasionados al medio ambiente por su prolongada estadía suponen una enorme carga.	Para ciertos países la acogida de los refugiados y los daños ocasionados al medio ambiente por su prolongada estadía suponen una enorme carga.
+UN_2001	INC47	La Secretaría no debe considerar que la publicación en el sitio de la CDI en la web sustituye a la publicación en los idiomas oficiales de las Naciones Unidas.	La publicación en el sitio de la CDI en la web sustituye a la publicación en los idiomas oficiales de las Naciones Unidas.
+UN_2001	INC48	La República de Armenia no considera que se ha transferido el equipo.	Se ha transferido el equipo.
+UN_2001	INC49	La Oficina del Director de la Fiscalía no había confirmado que seguían pendientes las acusaciones contra los carceleros.	Seguían pendientes las acusaciones contra los carceleros.
+UN_2001	INC50	El país anfitrión no había reconocido que el requerimiento de congelación era intrínsecamente ilícito.	El requirimiento de congelación era intrínsicamente ilícito.
+UN_2001	INC51	El mundo no debe olvidar que es una familia humana, independientemente de las diferencias.	El mundo es una familia humana, independientemente de las diferencias.
+UN_2001	INC52	El Grupo de Expertos no comprende que la población de la región oriental del país estaba amenazada por hambruna. 	La población de la región oriental del país estaba amenazada por hambruna.
+UN_2001	INC53	Sin embargo, el Consejo no debe pensar que esas cifras representan la idea de un fiscal a la búsqueda de casos.	Esas cifras representan la idea de un fiscal a la búsqueda de casos.
+UN_2001	INC54	National no demostró que la cuenta ya no existe.	La cuenta ya no existe.
+UN_2001	INC55	Los medios de difusión general no sabían que los periodistas indígenas estaban también preparados para tener una actitud crítica.	Los periodistas indígenas estaban también preparados para tener una actitud crítica.
+UN_2001	INC56	La Comisión no oculta que siguen existiendo ciertos problemas en la práctica.	Siguen existiendo ciertos problemas en la práctica.
+UN_2001	INC57	El Consejo no debe olvidar que el pueblo palestino ha vivido bajo una de las ocupaciones militares más prolongadas de la historia moderna.	El pueblo palestino ha vivido bajo una de las ocupaciones militares más prolongadas de la historia moderna.
+UN_2001	INC58	La comunidad internacional no debe olvidar que el sector menos atendido es el de las PYMES.	El sector menos atendido es el de las PYMES.
+UN_2002	INC59	Su Gobierno no niega que la aplicación práctica de esas disposiciones deja mucho que desear.	La aplicación práctica de esas disposiciones deja mucho que desear.
+UN_2002	INC60	El Estado Parte no discute que tales decisiones debían tomarse respetando las disposiciones del artículo 25 del Pacto.	Tales decisiones debían tomarse respetando las disposiciones del artículo 25 del Pacto.
+UN_2002	INC61	Los gobiernos no pueden negar que los jóvenes tienen relaciones sexuales.	Los jóvenes tienen relaciones sexuales. 
+UN_2002	INC62	El Comité no puede considerar que se ha violado el párrafo 1 del artículo 9 del Pacto.	Se ha violado el párrafo 1 del artículo 9 del Pacto.
+UN_2002	INC63	La empresa no pudo demostrar que se había cumplido esa disposición.	Se había cumplido esa disposición. 
+UN_2002	INC64	Uganda no puede suponer que la creación de una Comisión para investigar estas imputaciones es suficiente.	La creación de una Comisión para investigar estas imputaciones es suficiente.
+UN_2002	INC65	El Grupo no ha considerado que las cantidades ajustadas forman parte de pérdidas pertinentes por insuficiencia de pruebas.	Las cantidades ajustadas forman parte de pérdidas pertinentes por insuficiencia de pruebas.
+UN_2002	INC66	La Polytechna no ha demostrado que no tenía otra opción salvo la de obtener créditos e incurrir en obligaciones ulteriores de adeudamiento con sus clientes locales.	La Polytechna no tenía otra opción salvo la de obtener créditos e incurrir en obligaciones ulteriores de adeudamiento con sus clientes locales. 
+UN_2002	INC67	La Santa Fe no descubrió que la KDC había incurrido en costos no reembolsados de movilización de las torres.	La KDC había incurrido en costos no reembolsados de movilización de las torres.
+UN_2002	INC68	La Sasref no pudo demostrar que se habían gastado 500.000 SRls.	Se habían gastado 500.000 SRls.
+UN_2002	INC69	El Consejo de Seguridad no olvidará que ha venido recordando sistemáticamente a la CCD-Goma su obligación de desmilitarizar la ciudad de Kisangani.	El Consejo de Seguridad ha venido recordando sistemáticamente a la CCD-Goma su obligación de desmilitarizar la ciudad de Kisangani.
+UN_2002	INC70	Un Estado no podrá aducir que una reserva está viciada por el hecho de haber sido formulada en infracción de una disposición de su derecho interno.	Una reserva está viciada por el hecho de haber sido formulada en infracción de una disposición de su derecho interno.
+UN_2002	INC71	El Comité no quería decir que Lituania ha incorporado una parte de la Convención y otra no.	Lituania ha incorporado una parte de la Convención y otra no.
+DAVES	INC72	El partido comunista no sospechaba que el actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.	El actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.
+UN_2000	INC73	La “mayoría” no negaba que el Mandato podía haber reconocido el derecho de todos los Estados Miembros de la Sociedad a hacer cumplir las obligaciones al mandatario.	El Mandato podía haber reconocido el derecho de todos los Estados Miembros de la Sociedad a hacer cumplir las obligaciones al mandatario.
+UN_2000	INC74	El Foro Masculino de Dinamarca no cree que hay contradicción entre el interés del hijo y la custodia compartida.	Hay contradicción entre el interés del hijo y la custodia compartida.
+UN_2000	INC75	El Grupo de Trabajo no puede sostener que la detención de Pedro Katunda Kambangu viola el Pacto Internacional de Derechos Civiles y Políticos.	La detención de Pedro Katunda Kambangu viola el Pacto Internacional de Derechos Civiles y Políticos.
+UN_2003	INC76	En el asunto Barcelona Traction la Corte no declaró que la sociedad debía haber dejado de existir en el lugar de su constitución.	La sociedad debía haber dejado de existir en el lugar de su constitución. 
+UN_2003	INC77	En el momento de la ratificación, México no declaró que no reconocía la competencia del Comité prevista en el artículo 20 de la Convención.	México no reconocía la competencia del Comité prevista en el artículo 20 de la Convención.
+UN_2003	INC78	El Gobierno del territorio no considera que tiene mandato para conseguir la independencia.	El Gobierno del territorio tiene mandato para conseguir la independencia. 
+UN_2003	INC79	La Asamblea General no podría haber previsto que esa “conveniencia” era un gran eufemismo.	Esa "conveniencia" era un gran eufemismo.
+UN_2003	INC80	Israel no niega que en el ejercicio de su derecho inherente a defenderse del terrorismo más brutal debe actuar dentro de los límites del derecho internacional.	En el ejercicio de su derecho inherente a defenderse del terrorismo más brutal Israel debe actuar dentro de los límites del derecho internacional.
+UN_2003	INC81	La multitud no distinguió que se trataba de vehículos de las Naciones Unidas.	Se trataba de vehículos de las Naciones Unidas.
+UN_2003	INC82	El Reino Unido no sabía que existía una relación entre consumo de energía en sus casas o autos y el cambio climático.	Existía una relación entre consumo de energía en sus casas o autos y el cambio climático.
+UN_2003	INC83	El Gobierno de Nyamena no podía ignorar que en su frontera se estaba preparando una campaña militar contra las ciudades centroafricanas.	En la frontera de Nyamena se estaba preparando una campaña militar contra las ciudades centroafricanas.
+UN_2003	INC84	El Gobierno de Haití no consideraría que las motivaciones políticas justifican la denegación de peticiones de extradición de presuntos terroristas.	Las motivaciones políticas justifican la denegación de peticiones de extradición de presuntos terroristas. 
+UN_2003	INC85	El Iraq no demostró que estaba cambiando de actitud de manera radical.	El Iraq estaba cambiando de actitud de manera radical.
+UN_2003	INC86	El Grupo no considera que se justifican medidas de restablecimiento de la vegetación en las zonas dañadas por alquitranato.	Se justifican medidas de restablecimiento de la vegetación en las zonas dañadas por alquitranato.
+OLD_NEWS	INC87	La cadena no sabía que las fotos del desnudo de Susana estaban en internet.	Las fotos del desnudo de Susana estaban en internet. 
+UN_2002	INC88	La delegación de Viet Nam no considera que hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.	Hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.
+UN_2003	INC89	El Gobierno de Palestina no entiende que los conflictos deben solucionarse por medio de la negociación y no por medio del terror.	Los conflictos deben solucionarse por medio de la negociación y no por medio del terror.
+OLD_NEWS	INC90	El Gobierno de Perú no ha dicho que el modelo económico debe mantenerse intacto, sin cambios.	El modelo económico debe mantenerse intacto, sin cambios.
+PRETEST	SNI1	El hijo no oyó que le estuvieran llamando.	Estaban llamando al hijo.
+PRETEST	SNI2	El presidente no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+PRETEST	SNI3	El experto no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+PRETEST	SNI4	La periodista no sabía que la noticia fuera falsa.	La noticia era falsa.
+PRETEST	SNI5	El jugador no anunció que fuera a cambiar de equipo.	El jugador iba a cambiar de equipo.
+PRETEST	SNI6	El entrenador no sospechaba que el equipo contrario hubiera comprado al árbrito.	El equipo contrario había comprado al árbitro.
+PRETEST	SNI7	La escritora no intuía que su nueva novela fuera a tener éxito.	La nueva novela de la escritora iba a tener éxito.
+PRETEST	SNI8	El general no creyó que los ataques hubieran cesado.	Los ataques habían cesado.
+PRETEST	SNI9	El cantante no sabía que la canción fuera a ser todo un éxito.	La canción iba a ser un éxito.
+PRETEST	SNI10	El hijo de la actriz no oyó que le estuvieran llamando.	Estaban llamando al hijo de la actriz.
+PRETEST	SNI11	El presidente de España no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+PRETEST	SNI12	El experto en epidemias no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+PRETEST	SNI13	La periodista de LaSexta no sabía que la noticia fuera falsa.	La noticia era falsa.
+PRETEST	SNI14	El jugador de fútbol no anunció que fuera a cambiar de equipo.	El jugador de fútbol iba a cambiar de equipo.
+PRETEST	SNI15	El entrenador de fútbol no sospechaba que el equipo contrario hubiera comprado al árbrito.	El equipo contrario había comprado al árbitro.
+PRETEST	SNI16	La autora de literatura juvenil no intuía que su nueva novela fuera a tener éxito.	La nueva novela de la autora de literatura juvenil iba a tener éxito.
+PRETEST	SNI17	El general británico no creyó que los ataques hubieran cesado.	Los ataques habían cesado.
+PRETEST	SNI18	El cantante cubano no sabía que la canción fuera a ser todo un éxito.	La canción iba a ser un éxito.
+PRETEST	SNI19	El hijo de Nicole Kidman no oyó que le estuvieran llamando.	Estaban llamando al hijo de Nicole Kidman.
+PRETEST	SNI20	José Luis Rodríguez Zapatero no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+PRETEST	SNI21	Fernando Simón no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+PRETEST	SNI22	Ana Pastor no sabía que la noticia fuera falsa.	La noticia era falsa.
+PRETEST	SNI23	Sergio Ramos no anunció que fuera a cambiar de equipo.	Sergio Ramos iba a cambiar de equipo.
+PRETEST	SNI24	Julian Lopetegui no sospechaba que el equipo contrario hubiera comprado al árbrito.	El equipo contrario había comprado al árbitro.
+PRETEST	SNI25	J.K. Rowling no intuía que su nueva novela fuera a tener éxito.	La nueva novela de J.K. Rowling iba a tener éxito.
+PRETEST	SNI26	Bernard Montgomery no creyó que los ataques hubieran cesado.	Los ataques habían cesado.
+PRETEST	SNI27	Maykel Osorbo no sabía que la canción fuera a ser todo un éxito.	La canción iba a ser un éxito.
+QUIJOTE	SNI28	Lotario: No creo que sea tan bueno como el primero.	Es tan bueno como el primero.
+XNLI	SNI29	Bin Laden no sabía que el FBI hubiera retenido a Moussaoui.	El FBI había retenido a Moussaoui. 
+XNLI	SNI30	Bin Laden no sabía que Moussaoui hubiera sido detenido.	Moussaoui había sido detenido.
+XNLI	SNI31	Los operadores no sabían que los rescates en techos fueran imposibles.	Los rescates en techos eran imposibles. 
+OLD_NEWS	SNI32	La protagonista de esta apasionante historia no sospecha que este encuentro sea tan sólo una pieza en el malvado plan Toribio.	Este encuentro es tan sólo una pieza en el malvado plan Toribio. 
+OLD_NEWS	SNI33	La persona no me declaró que eso fuera una iglesia.	Eso era una iglesia.
+OLD_NEWS	SNI34	El hombrón no duda que sea una carta segura de hits bailables para 2011.	Es una carta segura de hits bailables para 2011.  
+OLD_NEWS	SNI35	Algunos lectores no entendían que se tratase, precisamente, de una crítica a la banalidad.	Precisamente se trataba de una crítica a la banalidad. 
+OLD_NEWS	SNI36	Un caminante distraído no hubiera advertido que allí se ocultara un sofisticado equipo transmisor.	Allí se ocultaba un sofisticado equipo transmisor. 
+OLD_NEWS	SNI37	El lobisón no sabe que todo aquello sea más una pieza en el malvado plan de Toribio.	Todo aquello es más una pieza en el malvado plan de Toribio.
+OLD_NEWS	SNI38	Jorge Chávez no sabía que lo peor estuviera por venir.	Lo peor estaba por venir.
+OLD_NEWS	SNI39	Manassero no olvidó que la hijita se llame Micaela.	La hijita se llama Micaela. 
+OLD_NEWS	SNI40	Los críticos de las acciones niponas no dudan que se trate la mejor excusa para cubrir una caza comercial prohibida por comunidad internacional.	Se trata la mejor excusa para cubrir una caza comercial prohibida por comunidad internacional. 
+OLD_NEWS	SNI41	Lapiedra no sabía que la joven colombiana fuera menor de edad.	La joven colombiana era menor de edad. 
+OLD_NEWS	SNI42	Francisco Macri no pensaba que fuera a ser cabeza de una de las familias industriales más grandes y poderosas el país.	Francisco Macri iba a ser cabeza de una de las familias industriales más grandes y poderosas el país. 
+OLD_NEWS	SNI43	El espectador casual no sabía que estuviera viendo la primera experiencia de FlashMob en el país.	El espectador estaba viendo la primera experiencia de FlashMob en el país. 
+OLD_NEWS	SNI44	El 90% de los padres de niños con sobrepeso no aceptan que sus hijos tengan un problema.	Los niños con sobrepeso tienen un problema.
+UN_2000	SNI45	Según las investigaciones, el policía no había podido ver que Baduan estuviera desarmado.	Baduan estaba desarmado. 
+UN_2000	SNI46	Algunos representantes no van a creer que el ex Rey de Libia antes de 1969 fuera de Mustaghanem, Argelia.	El ex Rey de Libia antes de 1969 era de Mustaghanem, Argelia . 
+UN_2000	SNI47	Algunos representantes aquí presentes no saben que el ex Presidente de Túnez fuera natural de Libia.	El ex Presidente de Túnez era natural de Libia.
+UN_2000	SNI48	Más del 90% de los africanos infectados no saben que sean portadores la enfermedad.	Más del 90% de los africanos son portadores de la enfermedad.
+UN_2000	SNI49	Algunos delegados gubernamentales no saben que también las mujeres sean seres humanos.	Las mujeres son seres humanos. 
+UN_2000	SNI50	Sin embargo, Sutton no ha probado que hubiera pagado los honorarios.	Sutton había pagado los honorarios.
+UN_2000	SNI51	La mayor parte de los interlocutores de la misión no dudaban que el Presidente Taylor ejerciera una gran influencia e incluso control directo sobre FRU.	El Presidente Taylor ejercía una gran influencia e incluso control directo sobre FRU. 
+UN_2000	SNI52	En relación con los gastos del viaje a la India y Manila, Taisei no ha demostrado que esos sean gastos temporales extraordinarios.	Los gastos del viaje a la India y Manila son gastos temporales extraordinarios.
+UN_2000	SNI53	Los familiares de los muertos no sabían que hubieran sido enterrados en el lote 29.	Los muertos habían sido enterrados en el lote 29.
+OLD_NEWS	SNI54	Entonces naturalmente Isabella no sabía que la película fuera a tener tal éxito.	La película iba a tener tal éxito.
+OLD_NEWS	SNI55	Gordon-Levitt no sentía que estuviera interpretando a Will.	Gordon-Levitt estaba interpretando a Will.
+OLD_NEWS	SNI56	Santos no mencionó que la carta de los presidentes del Consejo de Estado y de la Corte estuviera llena de lugares comunes y sin ningún argumento jurídico.	La carta de los presidentes del Consejo de Estado y de la Corte está llena de lugares comunes y sin ningún argumento jurídico.
+OLD_NEWS	SNI57	Stephanie no sabe que se hubiera metido en un lío.	Stephanie se había metido en un lío.
+OLD_NEWS	SNI58	Humala no ha dicho que el modelo económico deba mantenerse intacto, sin cambios.	El modelo económico debe mantenerse intacto, sin cambios.
+OLD_NEWS	SNI59	Arias no consideró que fuera falta.	Era falta.
+OLD_NEWS	SNI60	Yilmaz no puede considerar que se haya producido una violación de la Convención.	Se ha producido una violación de la Convención.
+UN_2000	SNI61	El Presidente Shevardnadze: No puedo ocultar que la realidad del mundo de hoy nos decepcione en cierta manera.	La realidad del mundo de hoy les decepciona en cierta manera.
+UN_2000	SNI62	El Secretario General: No quiero decir que esta Organización deba ser capaz de ganar por sí sola todas estas batallas.	Esta Organización debe ser capaz de ganar por sí sola todas estas batallas.
+UN_2001	SNI63	Los autores no han demostrado satisfactoriamente que corran un riesgo mayor que cualquier otro tamil residente en Colombo.	Los autores corren un riesgo mayor que cualquier otro tamil residente en Colombo. 
+UN_2001	SNI64	Más del 80% de los infectados no saben que sean portadores del VIH/SIDA.	Ellos son portadores del VIH/SIDA.
+UN_2002	SNI65	El representante de Israel no puede entender que Israel sea una potencia ocupante.	Israel es una potencia ocupante.
+UN_2002	SNI66	En ese momento, el autor no sabía que su primo hubiera sido ejecutado.	El primo del autor había sido ejecutado.
+UN_2002	SNI67	La Representante Especial no puede ignorar que la guerrilla viole los derechos de los defensores de los derechos humanos.	La guerrilla viola los derechos de los defensores de los derechos humanos. 
+UN_2002	SNI68	Miembros del Grupo Especial: Sobre la base de esos hechos no podemos concluir que las Comunidades Europeas explorasen las posibilidades de hacer uso de soluciones constructivas.	Las Comunidades Europeas exploraron las posibilidades de hacer uso de soluciones constructivas.
+UN_2002	SNI69	Miembros de la delegación de Viet Nam: No consideramos que haya que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.	Hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.
+DAVES	SNI70	El periodista no sospechaba que el actor español Willy Toledo tuviera en planes quedarse a vivir en Cuba.	El actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.
+DAVES	SNI71	Los profesores no podrán decir que el chico sea tonto.	El chico es tonto.
+OLD_NEWS	SNI72	La conductora no sabía que las fotos del desnudo de Susana estuvieran en internet.	Las fotos del desnudo de Susana estaban en internet. 
+OLD_NEWS	SNI73	Los abogados: No creemos que una persona amenazada o con problemas fuera a andar así.	Una persona amenazada o con problemas iba a andar así.
+UN_2000	SNI74	Miembro dde la Red del Tercer Mundo: No estamos negando que en el Norte de África hayan aumentado las desigualdades.	En el Norte de África han aumentado las desigualdades.
+UN_2000	SNI75	Algunos no saben que una parte de la familia o clan del Presidente del Chad viva en el Chad.	Una parte de la familia o clan del Presidente del Chad vive en el Chad.
+UN_2000	SNI76	El autor no puede pretender que sea víctima de violación de sus derechos conforme al párrafo 4 del artículo 6 del Pacto.	El autor es víctima de violación de sus derechos conforme al párrafo 4 del artículo 6 del Pacto.
+UN_2000	SNI77	¿Acaso no sabe el Sr. Bustani que Israel esté armado hasta los dientes con armas nucleares y con las aeronaves y los tanques más avanzados?	Israel está armado hasta los dientes con armas nucleares y con las aeronaves y los tanques más avanzados.
+UN_2002	SNI78	¿Acaso no sabemos todos que cada persona sea un microcosmos?	Cada persona es un microcosmos.
+UN_2002	SNI79	Los autores del informe no mencionan que sólo recursos internos de naturaleza judicial penal puedan ser entendidos como recursos efectivos.	Sólo recursos internos de naturaleza judicial penal pueden ser entendidos como recursos efectivos.
+UN_2001	SNI80	Los reclamantes no demostraron que existieran circunstancias justificantes de fundadas esperanzas de realizar otras actividades del mismo carácter.	 Existían circunstancias justificantes de fundadas esperanzas de realizar otras actividades del mismo carácter.
+UN_2001	SNI81	Los dirigentes albaneses de Kosovo no deben olvidar que gracias a la comunidad internacional lograsen contener la embestida del régimen de Milosevic.	Gracias a la comunidad internacional los dirigentes albaneses lograron contener la embestida del régimen de Milosevic.
+UN_2003	SNI82	Sr. Sanders de los Países Bajos: Nosotros no creemos que se trate de una solución muy efectiva.	Se trata de una solución muy efectiva.
+UN_2003	SNI83	Los palestinos no entienden que los conflictos deban solucionarse por medio de la negociación y no por medio del terror.	Los conflictos deben solucionarse por medio de la negociación y no por medio del terror.
+UN_2003	SNI84	Los abogados no deben pensar que tengan un cheque en blanco contra el fondo de asistencia letrada.	Los abogados tienen un cheque en blanco contra el fondo de asistencia letrada.
+UN_2003	SNI85	El Observador de Palestina no dijo que el conflicto deba solucionarse.	El conflicto debe solucionarse.
+UN_2003	SNI86	Casi el 87% de los jóvenes de entre 15 y 19 años no creen que corran riesgo.	Los jóvenes de entre 15 y 19 años corren riesgo.
+UN_2003	SNI87	Las víctimas no sabían que se hubiera violado un derecho.	Se había violado un derecho.
+UN_2003	SNI88	El representante de Israel no ha mencionado que Israel haya anexado de facto las tierras en disputa.	Israel ha anexado de facto las tierras en disputa.
+UN_2003	SNI89	El representante de Israel no ha mencionado que el muro se haya construido en tierras en disputa.	El muro se ha construido en tierras en disputa.
+UN_2003	SNI90	Los reclamantes no han demostrado que pagos supuestamente adeudados estuvieran efectivamente aplazados.	Pagos supuestamente adeudados estaban efectivamente aplazados.
+PRETEST	SNC1	El gobierno no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+PRETEST	SNC2	El comité de expertos no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+PRETEST	SNC3	El periódico no sabía que la noticia fuera falsa.	La noticia era falsa.
+PRETEST	SNC4	La junta directiva no pensó que la reunión con los abogados hubiera ido bien.	La reunión con los abogados había ido bien.
+PRETEST	SNC5	La familia no anunció que hubiera recortado gastos.	La familia había recortado gastos.
+PRETEST	SNC6	La universidad no anunció que las clases fueran a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	SNC7	El sindicato no sospechaba que el gobierno no fuera a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	SNC8	El ministerio no comunicó que fuera a implementar nuevas medidas.	El ministerio iba a implementar nuevas medidas.
+PRETEST	SNC9	El canal de televisión no anunció que la periodista fuera a ser despedida.	La periodista iba a ser despedida.
+PRETEST	SNC10	El gobierno nacional no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+PRETEST	SNC11	El comité de expertos del gobierno no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+PRETEST	SNC12	El periódico nacional no sabía que la noticia fuera falsa.	La noticia era falsa.
+PRETEST	SNC13	La junta directiva del club de fútbol no pensó que la reunión con los abogados hubiera ido bien.	La reunión con los abogados había ido bien.
+PRETEST	SNC14	La familia real no anunció que hubiera recortado gastos.	La familia real había recortado gastos.
+PRETEST	SNC15	La universidad madrileña no anunció que las clases fueran a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	SNC16	El sindicato de la empresa no sospechaba que el gobierno no fuera a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	SNC17	El Ministerio de Sanidad no comunicó que fuera a implementar nuevas medidas.	El Ministerio de Sanidad iba a implementar nuevas medidas.
+PRETEST	SNC18	La televisión pública no anunció que la periodista fuera a ser despedida.	La periodista iba a ser despedida.
+PRETEST	SNC19	El gobierno español no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+PRETEST	SNC20	El comité de expertos del gobierno español no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+PRETEST	SNC21	La Razón no sabía que la noticia fuera falsa.	La noticia era falsa.
+PRETEST	SNC22	La junta directiva del Barça no pensó que la reunión con los abogados hubiera ido bien.	La reunión con los abogados había ido bien.
+PRETEST	SNC23	La familia real española no anunció que hubiera recortado gastos.	La familia real española había recortado gastos.
+PRETEST	SNC24	La UCM no anunció que las clases fueran a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	SNC25	Comisiones Obreras no sospechaba que el gobierno no fuera a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	SNC26	El Ministerio de Sanidad español no comunicó que fuera a implementar nuevas medidas.	El Ministerio de Sanidad español iba a implementar nuevas medidas.
+PRETEST	SNC27	RTVE no anunció que la periodista fuera a ser despedida.	La periodista iba a ser despedida.
+DAVES	SNC28	Muchos centros educativos no saben que sea una competencia.	Es una competencia. 
+OLD_NEWS	SNC29	La mayoría de los clientes no sabe que él sea escritor.	Él es escritor.
+UN_2000	SNC30	Sin un órgano de esa clase la Conferencia de Desarme no puede afirmar que esté haciendo frente a las amenazas más graves para la seguridad internacional.	La Conferencia de Desarme está haciendo frente a las amenazas más graves para la seguridad internacional. 
+UN_2000	SNC31	La mayoría de organizaciones regionales no consideraba que la protección de los niños afectados por los conflictos armados perteneciera a sus programas.	La protección de los niños afectados por los conflictos armados problema pertenecía a los programas de las organizaciones regionales.
+UN_2000	SNC32	En otras palabras, las Naciones Unidas no pueden afirmar que la composición actual del Consejo de Seguridad sea representativa de todos sus miembros.	La composición actual del Consejo de Seguridad es representativa de todos sus miembros. 
+UN_2000	SNC33	El Comité no debe considerar que el asunto se limite a un examen de fondo de la comunicación.	El asunto se limita a un examen de fondo de la comunicación. 
+UN_2000	SNC34	El Comité Permanente no ha considerado que las opiniones expresadas en 1996 por el Comité Preparatorio constituyeran los trabajos preparatorios.	Las opiniones expresadas en 1996 por el Comité Preparatorio constituían los trabajos preparatorios. 
+UN_2000	SNC35	El personal de la Oficina de las Naciones Unidas en Nairobi no advirtió que el número de cuenta indicado en el fax de la Misión fuera ligeramente distinto.	El número de cuenta indicado en el fax de la Misión era ligeramente distinto.
+UN_2000	SNC36	La comunidad internacional no debía dudar que aún existiera el racismo.	El racismo aún existía.
+UN_2000	SNC37	Mientras el Comité encargado del Cumplimiento no determine que dicha Parte no cumpla una o varias de las condiciones enunciadas en el párrafo 1.	Dicha Parte no cumple una o varias de las condiciones enunciadas en el párrafo 1.
+UN_2000	SNC38	Así pues, el Gobierno no niega que haya permitido a los acusados ser examinados y tratados por sus propios médicos.	El Gobierno ha permitido a los acusados ser examinados y tratados por sus propios médicos.
+UN_2000	SNC39	Los primeros gobiernos no quisieron admitir que la pobreza constituyera un problema.	La pobreza constituía un problema.
+UN_2000	SNC40	Ahora bien, la Comisión no debiera olvidar que el Grupo de Trabajo sobre las Poblaciones Indígenas sea la única instancia permanente abierta de manera democrática a los indígenas.	El Grupo de Trabajo sobre las Poblaciones Indígenas es la única instancia permanente abierta de manera democrática a los indígenas. 
+UN_2000	SNC41	Eritrea no sospechaba que esto formara parte de un proyecto coherente a largo plazo organizado por las autoridades de Etiopía.	Esto formaba parte de un proyecto coherente a largo plazo organizado por las autoridades de Etiopía.
+OLD_NEWS	SNC42	La gente no entiende que discapacidad sea diferente a incapacidad.	Discapacidad es diferente a incapacidad.
+UN_2001	SNC43	Suiza no puede negar que abrigase esperanzas de que se aprobase el documento.	Suiza abrigaba esperanzas de que se aprobase el documento. 
+UN_2001	SNC44	Mi delegación no cree que esta situación sea prometedora.	Esta situación es prometedora.
+UN_2001	SNC45	Los Estados Unidos no consideran que en cada territorio el proceso de descolonización deba transcurrir de la misma manera.	En cada territorio el proceso de descolonización debe transcurrir de la misma manera. 
+UN_2001	SNC46	La comunidad internacional no debe olvidar que para ciertos países la acogida de los refugiados y los daños ocasionados al medio ambiente por su prolongada estadía supongan una enorme carga.	Para ciertos países la acogida de los refugiados y los daños ocasionados al medio ambiente por su prolongada estadía suponen una enorme carga.
+UN_2001	SNC47	La Secretaría no debe considerar que la publicación en el sitio de la CDI en la web sustituya a la publicación en los idiomas oficiales de las Naciones Unidas.	La publicación en el sitio de la CDI en la web sustituye a la publicación en los idiomas oficiales de las Naciones Unidas.
+UN_2001	SNC48	La República de Armenia no considera que se haya transferido el equipo.	Se ha transferido el equipo.
+UN_2001	SNC49	La Oficina del Director de la Fiscalía no había confirmado que siguieran pendientes las acusaciones contra los carceleros.	Seguían pendientes las acusaciones contra los carceleros.
+UN_2001	SNC50	El país anfitrión no había reconocido que el requerimiento de congelación fuera intrínsecamente ilícito.	El requirimiento de congelación era intrínsicamente ilícito.
+UN_2001	SNC51	El mundo no debe olvidar que sea una familia humana, independientemente de las diferencias.	El mundo es una familia humana, independientemente de las diferencias.
+UN_2001	SNC52	El Grupo de Expertos no comprende que la población de la región oriental del país estuviera amenazada por hambruna. 	La población de la región oriental del país estaba amenazada por hambruna.
+UN_2001	SNC53	Sin embargo, el Consejo no debe pensar que esas cifras representen la idea de un fiscal a la búsqueda de casos.	Esas cifras representan la idea de un fiscal a la búsqueda de casos.
+UN_2001	SNC54	National no demostró que la cuenta ya no exista.	La cuenta ya no existe.
+UN_2001	SNC55	Los medios de difusión general no sabían que los periodistas indígenas estuvieran también preparados para tener una actitud crítica.	Los periodistas indígenas estaban también preparados para tener una actitud crítica.
+UN_2001	SNC56	La Comisión no oculta que siguan existiendo ciertos problemas en la práctica.	Siguen existiendo ciertos problemas en la práctica.
+UN_2001	SNC57	El Consejo no debe olvidar que el pueblo palestino haya vivido bajo una de las ocupaciones militares más prolongadas de la historia moderna.	El pueblo palestino ha vivido bajo una de las ocupaciones militares más prolongadas de la historia moderna.
+UN_2001	SNC58	La comunidad internacional no debe olvidar que el sector menos atendido sea el de las PYMES.	El sector menos atendido es el de las PYMES.
+UN_2002	SNC59	Su Gobierno no niega que la aplicación práctica de esas disposiciones deje mucho que desear.	La aplicación práctica de esas disposiciones deja mucho que desear.
+UN_2002	SNC60	El Estado Parte no discute que tales decisiones debieran tomarse respetando las disposiciones del artículo 25 del Pacto.	Tales decisiones debían tomarse respetando las disposiciones del artículo 25 del Pacto.
+UN_2002	SNC61	Los gobiernos no pueden negar que los jóvenes tengan relaciones sexuales.	Los jóvenes tienen relaciones sexuales. 
+UN_2002	SNC62	El Comité no puede considerar que se haya violado el párrafo 1 del artículo 9 del Pacto.	Se ha violado el párrafo 1 del artículo 9 del Pacto.
+UN_2002	SNC63	La empresa no pudo demostrar que se hubiera cumplido esa disposición.	Se había cumplido esa disposición. 
+UN_2002	SNC64	Uganda no puede suponer que la creación de una Comisión para investigar estas imputaciones sea suficiente.	La creación de una Comisión para investigar estas imputaciones es suficiente.
+UN_2002	SNC65	El Grupo no ha considerado que las cantidades ajustadas formen parte de pérdidas pertinentes por insuficiencia de pruebas.	Las cantidades ajustadas forman parte de pérdidas pertinentes por insuficiencia de pruebas.
+UN_2002	SNC66	La Polytechna no ha demostrado que no tuviera otra opción salvo la de obtener créditos e incurrir en obligaciones ulteriores de adeudamiento con sus clientes locales.	La Polytechna no tenía otra opción salvo la de obtener créditos e incurrir en obligaciones ulteriores de adeudamiento con sus clientes locales.  
+UN_2002	SNC67	La Santa Fe no descubrió que la KDC hubiera incurrido en costos no reembolsados de movilización de las torres.	La KDC había incurrido en costos no reembolsados de movilización de las torres.
+UN_2002	SNC68	La Sasref no pudo demostrar que se hubieran gastado 500.000 SRls.	Se habían gastado 500.000 SRls.
+UN_2002	SNC69	El Consejo de Seguridad no olvidará que haya venido recordando sistemáticamente a la CCD-Goma su obligación de desmilitarizar la ciudad de Kisangani.	El Consejo de Seguridad ha venido recordando sistemáticamente a la CCD-Goma su obligación de desmilitarizar la ciudad de Kisangani.
+UN_2002	SNC70	Un Estado no podrá aducir que una reserva esté viciada por el hecho de haber sido formulada en infracción de una disposición de su derecho interno.	Una reserva está viciada por el hecho de haber sido formulada en infracción de una disposición de su derecho interno.
+UN_2002	SNC71	El Comité no quería decir que Lituania haya incorporado una parte de la Convención y otra no.	Lituania ha incorporado una parte de la Convención y otra no.
+DAVES	SNC72	El partido comunista no sospechaba que el actor español Willy Toledo tuviera en planes quedarse a vivir en Cuba.	El actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.
+UN_2000	SNC73	La “mayoría” no negaba que el Mandato pudiera haber reconocido el derecho de todos los Estados Miembros de la Sociedad a hacer cumplir las obligaciones al mandatario.	El Mandato podía haber reconocido el derecho de todos los Estados Miembros de la Sociedad a hacer cumplir las obligaciones al mandatario.
+UN_2000	SNC74	El Foro Masculino de Dinamarca no cree que haya contradicción entre el interés del hijo y la custodia compartida.	Hay contradicción entre el interés del hijo y la custodia compartida.
+UN_2000	SNC75	El Grupo de Trabajo no puede sostener que la detención de Pedro Katunda Kambangu viole el Pacto Internacional de Derechos Civiles y Políticos.	La detención de Pedro Katunda Kambangu viola el Pacto Internacional de Derechos Civiles y Políticos.
+UN_2003	SNC76	En el asunto Barcelona Traction la Corte no declaró que la sociedad debiera haber dejado de existir en el lugar de su constitución.	La sociedad debía haber dejado de existir en el lugar de su constitución. 
+UN_2003	SNC77	En el momento de la ratificación, México no declaró que no reconociera la competencia del Comité prevista en el artículo 20 de la Convención.	México no reconocía la competencia del Comité prevista en el artículo 20 de la Convención.
+UN_2003	SNC78	El Gobierno del territorio no considera que tenga mandato para conseguir la independencia.	El Gobierno del territorio tiene mandato para conseguir la independencia. 
+UN_2003	SNC79	La Asamblea General no podría haber previsto que esa “conveniencia” fuera un gran eufemismo.	Esa "conveniencia" era un gran eufemismo.
+UN_2003	SNC80	Israel no niega que en el ejercicio de su derecho inherente a defenderse del terrorismo más brutal deba actuar dentro de los límites del derecho internacional.	En el ejercicio de su derecho inherente a defenderse del terrorismo más brutal Israel debe actuar dentro de los límites del derecho internacional.
+UN_2003	SNC81	La multitud no distinguió que se tratase de vehículos de las Naciones Unidas.	Se trataba de vehículos de las Naciones Unidas.
+UN_2003	SNC82	El Reino Unido no sabía que existiese una relación entre consumo de energía en sus casas o autos y el cambio climático.	Existía una relación entre consumo de energía en sus casas o autos y el cambio climático.
+UN_2003	SNC83	El Gobierno de Nyamena no podía ignorar que en su frontera se estuviera preparando una campaña militar contra las ciudades centroafricanas.	En la frontera de Nyamena se estaba preparando una campaña militar contra las ciudades centroafricanas.
+UN_2003	SNC84	El Gobierno de Haití no consideraría que las motivaciones políticas justifiquen la denegación de peticiones de extradición de presuntos terroristas.	Las motivaciones políticas justifican la denegación de peticiones de extradición de presuntos terroristas. 
+UN_2003	SNC85	El Iraq no demostró que estuviera cambiando de actitud de manera radical.	El Iraq estaba cambiando de actitud de manera radical.
+UN_2003	SNC86	El Grupo no considera que se justifiquen medidas de restablecimiento de la vegetación en las zonas dañadas por alquitranato.	Se justifican medidas de restablecimiento de la vegetación en las zonas dañadas por alquitranato.
+OLD_NEWS	SNC87	La cadena no sabía que las fotos del desnudo de Susana estuvieran en internet.	Las fotos del desnudo de Susana estaban en internet. 
+UN_2002	SNC88	La delegación de Viet Nam no considera que haya que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.	Hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.
+UN_2003	SNC89	El Gobierno de Palestina no entiende que los conflictos deban solucionarse por medio de la negociación y no por medio del terror.	Los conflictos deben solucionarse por medio de la negociación y no por medio del terror.
+OLD_NEWS	SNC90	El Gobierno de Perú no ha dicho que el modelo económico deba mantenerse intacto, sin cambios.	El modelo económico debe mantenerse intacto, sin cambios.
