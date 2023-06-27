@@ -1,0 +1,30 @@
+ID	PREMISE	HYPOTHESIS
+SAI1	Quizás el presidente dijera la verdad.	El presidente dijo la verdad.
+SAI2	Tal vez el futbolista conociera todas las condiciones del contrato.	El futbolista conocía todas las condiciones del contrato.
+SAI3	Probablemente la madre tuviera la solución.	La madre tenía la solución.
+SAI4	Quizás el director desconociera el historial del actor.	El director desconocía el historial del actor.
+SAI5	Tal vez el actor olvidara el guión.	El actor olvidó el guión.
+SAI6	Probablemente la mujer sospechara de su marido.	La mujer sospechaba de su marido.
+SAI7	Seguramente el alcalde tuviera las llaves de la ciudad.	El alcalde tenía las llaves de la ciudad.
+SAI8	Posiblemente el empresario ayudara al gobierno.	El empresario ayudó al gobierno.
+SAI9	Posiblemente el médico trabajara hasta la extenuación.	El médico trabajó hasta la extenuación.
+
+SAI10	Quizás el presidente del gobierno dijera la verdad.	El presidente del gobierno dijo la verdad.
+SAI11	Tal vez el futbolista del PSG conociera todas las condiciones del contrato.	El futbolista del PSG conocía todas las condiciones del contrato.
+SAI12	Probablemente la madre del famoso tuviera la solución.	La madre del famoso tenía la solución.
+SAI13	Quizás el director español desconociera el historial del actor.	El director español desconocía el historial del actor.
+SAI14	Tal vez el actor español olvidara el guión.	El actor español olvidó el guión.
+SAI15	Probablemente la mujer del futbolista sospechara de su marido.	La mujer del futbolista sospechaba de su marido.
+SAI16	Seguramente el alcalde de Madrid tuviera las llaves de la ciudad.	El alcalde de Madrid tenía las llaves de la ciudad.
+SAI17	Posiblemente el empresario español ayudara al gobierno.	El empresario español ayudó al gobierno.
+SAI18	Posiblemente el médico italiano trabajara hasta la extenuación.	El médico italiano trabajó hasta la extenuación.
+
+SAI19	Quizás José Luis Rodríguez Zapatero dijera la verdad.	José Luis Rodríguez Zapatero dijo la verdad.
+SAI20	Tal vez Sergio Ramos conociera todas las condiciones del contrato.	Sergio Ramos conocía todas las condiciones del contrato.
+SAI21	Probablemente la madre de Ronaldinho tuviera la solución.	La madre de Ronaldinho tenía la solución.
+SAI22	Quizás Alejandro Amenábar desconociera el historial del actor.	Alejandro Amenábar desconocía el historial del actor.
+SAI23	Tal vez Antonio Banderas olvidara el guión.	Antonio Banderas olvidó el guión.
+SAI24	Probablemente la mujer de Xabi Alonso sospechara de su marido.	La mujer de Xabi Alonso sospechaba de su marido.
+SAI25	Seguramente José Luis Martínez-Almeida tuviera las llaves de la ciudad.	José Luis Martínez-Almeida tenía las llaves de la ciudad.
+SAI26	Posiblemente Amancio Ortega ayudó al gobierno.	Amancio Ortega ayudó al gobierno.
+SAI27	Posiblemente el doctor Carballo trabajó hasta la extenuación.	El Doctor Carballo trabajó hasta la extenuación.

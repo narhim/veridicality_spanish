@@ -1,0 +1,30 @@
+ID	PREMISE	HYPOTHESIS
+BNC1	El gobierno dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+BNC2	El comité de expertos creía que la tendencia había cambiado.	La tendencia había cambiado.
+BNC3	El periódico sabía que la noticia era falsa.	La noticia era falsa.
+BNC4	La junta directiva pensó que la reunión con los abogados había ido bien.	La reunión con los abogados había ido bien. 
+BNC5	La familia anunció que había recortado gastos.	La familia había recortado gastos.
+BNC6	La universidad anunció que las clases iban a ser presenciales.	Las clases iban a ser presenciales.
+BNC7	El sindicato sospechaba que el gobierno no iba a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+BNC8	El ministerio comunicó que iba a implementar nuevas medidas.	El ministerio iba a implementar nuevas medidas.
+BNC9	El canal de televisión anunció que la periodista iba a ser despedida.	La periodista iba a ser despedida.
+
+BNC10	El gobierno nacional dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+BNC11	El comité de expertos del gobierno creía que la tendencia había cambiado.	La tendencia había cambiado.
+BNC12	El periódico nacional sabía que la noticia era falsa.	La noticia era falsa.
+BNC13	La junta directiva del club de fútbol pensó que la reunión con los abogados había ido bien.	La reunión con los abogados había ido bien. 
+BNC14	La familia real anunció que había recortado gastos.	La familia real había recortado gastos.
+BNC15	La universidad madrileña anunció que las clases iban a ser presenciales.	Las clases iban a ser presenciales.
+BNC16	El sindicato de la empresa sospechaba que el gobierno no iba a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+BNC17	El Ministerio de Sanidad comunicó que iba a implementar nuevas medidas.	El Ministerio de Sanidad iba a implementar nuevas medidas.
+BNC18	La televisión pública anunció que la periodista iba a ser despedida.	La periodista iba a ser despedida.
+
+BNC19	El gobierno español dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+BNC20	El comité de expertos del gobierno español creía que la tendencia había cambiado.	La tendencia había cambiado.
+BNC21	La Razón sabía que la noticia era falsa.	La noticia era falsa.
+BNC22	La junta directiva del Barça pensó que la reunión con los abogados había ido bien.	La reunión con los abogados había ido bien.
+BNC23	La familia real española anunció que había recortado gastos.	La familia real española había recortado gastos.
+BNC24	La UCM anunció que las clases iban a ser presenciales.	Las clases iban a ser presenciales.
+BNC25	Comisiones Obreras sospechaba que el gobierno no iba a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+BNC26	El Ministerio de Sanidad español comunicó que iba a implementar nuevas medidas.	El Ministerio de Sanidad español iba a implementar nuevas medidas.
+BNC27	RTVE anunció que la periodista iba a ser despedida.	La periodista iba a ser despedida.

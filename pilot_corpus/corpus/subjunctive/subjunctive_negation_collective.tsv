@@ -1,0 +1,30 @@
+ID	PREMISE HYPOTHESIS
+SNC1	El gobierno no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+SNC2	El comité de expertos no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+SNC3	El periódico no sabía que la noticia fuera falsa.	La noticia era falsa.
+SNC4	La junta directiva no pensó que la reunión con los abogados hubiera ido bien.	La reunión con los abogados había ido bien.
+SNC5	La familia no anunció que hubiera recortado gastos.	La familia había recortado gastos.
+SNC6	La universidad no anunció que las clases fueran a ser presenciales.	Las clases iban a ser presenciales.
+SNC7	El sindicato no sospechaba que el gobierno no fuera a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+SNC8	El ministerio no comunicó que fuera a implementar nuevas medidas.	El ministerio iba a implementar nuevas medidas.
+SNC9	El canal de televisión no anunció que la periodista fuera a ser despedida.	La periodista iba a ser despedida.
+
+SNC10	El gobierno nacional no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+SNC11	El comité de expertos del gobierno no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+SNC12	El periódico nacional no sabía que la noticia fuera falsa.	La noticia era falsa.
+SNC13	La junta directiva del club de fútbol no pensó que la reunión con los abogados hubiera ido bien.	La reunión con los abogados había ido bien.
+SNC14	La familia real no anunció que hubiera recortado gastos.	La familia real había recortado gastos.
+SNC15	La universidad madrileña no anunció que las clases fueran a ser presenciales.	Las clases iban a ser presenciales.
+SNC16	El sindicato de la empresa no sospechaba que el gobierno no fuera a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+SNC17	El Ministerio de Sanidad no comunicó que fuera a implementar nuevas medidas.	El Ministerio de Sanidad iba a implementar nuevas medidas.
+SNC18	La televisión pública no anunció que la periodista fuera a ser despedida.	La periodista iba a ser despedida.
+
+SNC19	El gobierno español no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+SNC20	El comité de expertos del gobierno español no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+SNC21	La Razón no sabía que la noticia fuera falsa.	La noticia era falsa.
+SNC22	La junta directiva del Barça no pensó que la reunión con los abogados hubiera ido bien.	La reunión con los abogados había ido bien.
+SNC23	La familia real española no anunció que hubiera recortado gastos.	La familia real española había recortado gastos.
+SNC24	La UCM no anunció que las clases fueran a ser presenciales.	Las clases iban a ser presenciales.
+SNC25	Comisiones Obreras no sospechaba que el gobierno no fuera a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+SNC26	El Ministerio de Sanidad español no comunicó que fuera a implementar nuevas medidas.	El Ministerio de Sanidad español iba a implementar nuevas medidas.
+SNC27	RTVE no anunció que la periodista fuera a ser despedida.	La periodista iba a ser despedida.

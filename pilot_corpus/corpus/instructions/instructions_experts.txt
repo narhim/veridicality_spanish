@@ -1,0 +1,13 @@
+Esta tarea consiste en, dado un contexto específico, determinar si un evento (ej.: "Pedro cantó")  ocurrió/ocurre/ocurrirá o no. Pero para ello pedimos que sólo se tengan en cuenta factores semánticos, no pragmáticos; es decir, que no tenga en cuenta su conocimiento del mundo. 
+
+Por ejemplo, dado el contexto "La madre no oyó que llamaran a la puerta." ¿Cree usted que el evento "Llamaron a la puerta":
+a.- ciertamente ocurrió/ocurre/ocurrirá
+b.- probablemente ocurrió/ocurre/ocurrirá
+c.- posiblemente ocurrió/ocurre/ocurrirá
+d.- no se sabe si  ocurrió/ocurre/ocurrirá
+e.- ciertamente no  ocurrió/ocurre/ocurrirá
+f.- posiblemente no  ocurrió/ocurre/ocurrirá
+g.- probablemente no  ocurrió/ocurre/ocurrirá
+h.- La primera oración es imposible en español.
+
+Respuesta: b.- probablemente ocurrió/ocurre/ocurrirá
