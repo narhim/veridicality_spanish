@@ -1,0 +1,91 @@
+SOURCE	ID	PREMISE	HYPOTHESIS
+PRETEST	SNI1	El hijo no oyó que le estuvieran llamando.	Estaban llamando al hijo.
+PRETEST	SNI2	El presidente no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+PRETEST	SNI3	El experto no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+PRETEST	SNI4	La periodista no sabía que la noticia fuera falsa.	La noticia era falsa.
+PRETEST	SNI5	El jugador no anunció que fuera a cambiar de equipo.	El jugador iba a cambiar de equipo.
+PRETEST	SNI6	El entrenador no sospechaba que el equipo contrario hubiera comprado al árbrito.	El equipo contrario había comprado al árbitro.
+PRETEST	SNI7	La escritora no intuía que su nueva novela fuera a tener éxito.	La nueva novela de la escritora iba a tener éxito.
+PRETEST	SNI8	El general no creyó que los ataques hubieran cesado.	Los ataques habían cesado.
+PRETEST	SNI9	El cantante no sabía que la canción fuera a ser todo un éxito.	La canción iba a ser un éxito.
+PRETEST	SNI10	El hijo de la actriz no oyó que le estuvieran llamando.	Estaban llamando al hijo de la actriz.
+PRETEST	SNI11	El presidente de España no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+PRETEST	SNI12	El experto en epidemias no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+PRETEST	SNI13	La periodista de LaSexta no sabía que la noticia fuera falsa.	La noticia era falsa.
+PRETEST	SNI14	El jugador de fútbol no anunció que fuera a cambiar de equipo.	El jugador de fútbol iba a cambiar de equipo.
+PRETEST	SNI15	El entrenador de fútbol no sospechaba que el equipo contrario hubiera comprado al árbrito.	El equipo contrario había comprado al árbitro.
+PRETEST	SNI16	La autora de literatura juvenil no intuía que su nueva novela fuera a tener éxito.	La nueva novela de la autora de literatura juvenil iba a tener éxito.
+PRETEST	SNI17	El general británico no creyó que los ataques hubieran cesado.	Los ataques habían cesado.
+PRETEST	SNI18	El cantante cubano no sabía que la canción fuera a ser todo un éxito.	La canción iba a ser un éxito.
+PRETEST	SNI19	El hijo de Nicole Kidman no oyó que le estuvieran llamando.	Estaban llamando al hijo de Nicole Kidman.
+PRETEST	SNI20	José Luis Rodríguez Zapatero no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+PRETEST	SNI21	Fernando Simón no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+PRETEST	SNI22	Ana Pastor no sabía que la noticia fuera falsa.	La noticia era falsa.
+PRETEST	SNI23	Sergio Ramos no anunció que fuera a cambiar de equipo.	Sergio Ramos iba a cambiar de equipo.
+PRETEST	SNI24	Julian Lopetegui no sospechaba que el equipo contrario hubiera comprado al árbrito.	El equipo contrario había comprado al árbitro.
+PRETEST	SNI25	J.K. Rowling no intuía que su nueva novela fuera a tener éxito.	La nueva novela de J.K. Rowling iba a tener éxito.
+PRETEST	SNI26	Bernard Montgomery no creyó que los ataques hubieran cesado.	Los ataques habían cesado.
+PRETEST	SNI27	Maykel Osorbo no sabía que la canción fuera a ser todo un éxito.	La canción iba a ser un éxito.
+QUIJOTE	SNI28	Lotario: No creo que sea tan bueno como el primero.	Es tan bueno como el primero.
+XNLI	SNI29	Bin Laden no sabía que el FBI hubiera retenido a Moussaoui.	El FBI había retenido a Moussaoui. 
+XNLI	SNI30	Bin Laden no sabía que Moussaoui hubiera sido detenido.	Moussaoui había sido detenido.
+XNLI	SNI31	Los operadores no sabían que los rescates en techos fueran imposibles.	Los rescates en techos eran imposibles. 
+OLD_NEWS	SNI32	La protagonista de esta apasionante historia no sospecha que este encuentro sea tan sólo una pieza en el malvado plan Toribio.	Este encuentro es tan sólo una pieza en el malvado plan Toribio. 
+OLD_NEWS	SNI33	La persona no me declaró que eso fuera una iglesia.	Eso era una iglesia.
+OLD_NEWS	SNI34	El hombrón no duda que sea una carta segura de hits bailables para 2011.	Es una carta segura de hits bailables para 2011.  
+OLD_NEWS	SNI35	Algunos lectores no entendían que se tratase, precisamente, de una crítica a la banalidad.	Precisamente se trataba de una crítica a la banalidad. 
+OLD_NEWS	SNI36	Un caminante distraído no hubiera advertido que allí se ocultara un sofisticado equipo transmisor.	Allí se ocultaba un sofisticado equipo transmisor. 
+OLD_NEWS	SNI37	El lobisón no sabe que todo aquello sea más una pieza en el malvado plan de Toribio.	Todo aquello es más una pieza en el malvado plan de Toribio.
+OLD_NEWS	SNI38	Jorge Chávez no sabía que lo peor estuviera por venir.	Lo peor estaba por venir.
+OLD_NEWS	SNI39	Manassero no olvidó que la hijita se llame Micaela.	La hijita se llama Micaela. 
+OLD_NEWS	SNI40	Los críticos de las acciones niponas no dudan que se trate la mejor excusa para cubrir una caza comercial prohibida por comunidad internacional.	Se trata la mejor excusa para cubrir una caza comercial prohibida por comunidad internacional. 
+OLD_NEWS	SNI41	Lapiedra no sabía que la joven colombiana fuera menor de edad.	La joven colombiana era menor de edad. 
+OLD_NEWS	SNI42	Francisco Macri no pensaba que fuera a ser cabeza de una de las familias industriales más grandes y poderosas el país.	Francisco Macri iba a ser cabeza de una de las familias industriales más grandes y poderosas el país. 
+OLD_NEWS	SNI43	El espectador casual no sabía que estuviera viendo la primera experiencia de FlashMob en el país.	El espectador estaba viendo la primera experiencia de FlashMob en el país. 
+OLD_NEWS	SNI44	El 90% de los padres de niños con sobrepeso no aceptan que sus hijos tengan un problema.	Los niños con sobrepeso tienen un problema.
+UN_2000	SNI45	Según las investigaciones, el policía no había podido ver que Baduan estuviera desarmado.	Baduan estaba desarmado. 
+UN_2000	SNI46	Algunos representantes no van a creer que el ex Rey de Libia antes de 1969 fuera de Mustaghanem, Argelia.	El ex Rey de Libia antes de 1969 era de Mustaghanem, Argelia . 
+UN_2000	SNI47	Algunos representantes aquí presentes no saben que el ex Presidente de Túnez fuera natural de Libia.	El ex Presidente de Túnez era natural de Libia.
+UN_2000	SNI48	Más del 90% de los africanos infectados no saben que sean portadores la enfermedad.	Más del 90% de los africanos son portadores de la enfermedad.
+UN_2000	SNI49	Algunos delegados gubernamentales no saben que también las mujeres sean seres humanos.	Las mujeres son seres humanos. 
+UN_2000	SNI50	Sin embargo, Sutton no ha probado que hubiera pagado los honorarios.	Sutton había pagado los honorarios.
+UN_2000	SNI51	La mayor parte de los interlocutores de la misión no dudaban que el Presidente Taylor ejerciera una gran influencia e incluso control directo sobre FRU.	El Presidente Taylor ejercía una gran influencia e incluso control directo sobre FRU. 
+UN_2000	SNI52	En relación con los gastos del viaje a la India y Manila, Taisei no ha demostrado que esos sean gastos temporales extraordinarios.	Los gastos del viaje a la India y Manila son gastos temporales extraordinarios.
+UN_2000	SNI53	Los familiares de los muertos no sabían que hubieran sido enterrados en el lote 29.	Los muertos habían sido enterrados en el lote 29.
+OLD_NEWS	SNI54	Entonces naturalmente Isabella no sabía que la película fuera a tener tal éxito.	La película iba a tener tal éxito.
+OLD_NEWS	SNI55	Gordon-Levitt no sentía que estuviera interpretando a Will.	Gordon-Levitt estaba interpretando a Will.
+OLD_NEWS	SNI56	Santos no mencionó que la carta de los presidentes del Consejo de Estado y de la Corte estuviera llena de lugares comunes y sin ningún argumento jurídico.	La carta de los presidentes del Consejo de Estado y de la Corte está llena de lugares comunes y sin ningún argumento jurídico.
+OLD_NEWS	SNI57	Stephanie no sabe que se hubiera metido en un lío.	Stephanie se había metido en un lío.
+OLD_NEWS	SNI58	Humala no ha dicho que el modelo económico deba mantenerse intacto, sin cambios.	El modelo económico debe mantenerse intacto, sin cambios.
+OLD_NEWS	SNI59	Arias no consideró que fuera falta.	Era falta.
+OLD_NEWS	SNI60	Yilmaz no puede considerar que se haya producido una violación de la Convención.	Se ha producido una violación de la Convención.
+UN_2000	SNI61	El Presidente Shevardnadze: No puedo ocultar que la realidad del mundo de hoy nos decepciona en cierta manera.	La realidad del mundo de hoy les decepciona en cierta manera.
+UN_2000	SNI62	El Secretario General: No quiero decir que esta Organización deba ser capaz de ganar por sí sola todas estas batallas.	Esta Organización debe ser capaz de ganar por sí sola todas estas batallas.
+UN_2001	SNI63	Los autores no han demostrado satisfactoriamente que corran un riesgo mayor que cualquier otro tamil residente en Colombo.	Los autores corren un riesgo mayor que cualquier otro tamil residente en Colombo. 
+UN_2001	SNI64	Más del 80% de los infectados no saben que sean portadores del VIH/SIDA.	Ellos son portadores del VIH/SIDA.
+UN_2002	SNI65	El representante de Israel no puede entender que Israel sea una potencia ocupante.	Israel es una potencia ocupante.
+UN_2002	SNI66	En ese momento, el autor no sabía que su primo hubiera sido ejecutado.	El primo del autor había sido ejecutado.
+UN_2002	SNI67	La Representante Especial no puede ignorar que la guerrilla viole los derechos de los defensores de los derechos humanos.	La guerrilla viola los derechos de los defensores de los derechos humanos. 
+UN_2002	SNI68	Miembros del Grupo Especial: Sobre la base de esos hechos no podemos concluir que las Comunidades Europeas explorasen las posibilidades de hacer uso de soluciones constructivas.	Las Comunidades Europeas exploraron las posibilidades de hacer uso de soluciones constructivas.
+UN_2002	SNI69	Miembros de la delegación de Viet Nam: No consideramos que haya que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.	Hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.
+DAVES	SNI70	El periodista no sospechaba que el actor español Willy Toledo tuviera en planes quedarse a vivir en Cuba.	El actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.
+DAVES	SNI71	Los profesores no podrán decir que el chico sea tonto.	El chico es tonto.
+OLD_NEWS	SNI72	La conductora no sabía que las fotos del desnudo de Susana estuvieran en internet.	Las fotos del desnudo de Susana estaban en internet. 
+OLD_NEWS	SNI73	Los abogados: No creemos que una persona amenazada o con problemas fuera a andar así.	Una persona amenazada o con problemas iba a andar así.
+UN_2000	SNI74	Miembro dde la Red del Tercer Mundo: No estamos negando que en el Norte de África hayan aumentado las desigualdades.	En el Norte de África han aumentado las desigualdades.
+UN_2000	SNI75	Algunos no saben que una parte de la familia o clan del Presidente del Chad viva en el Chad.	Una parte de la familia o clan del Presidente del Chad vive en el Chad.
+UN_2000	SNI76	El autor no puede pretender que sea víctima de violación de sus derechos conforme al párrafo 4 del artículo 6 del Pacto.	El autor es víctima de violación de sus derechos conforme al párrafo 4 del artículo 6 del Pacto.
+UN_2000	SNI77	¿Acaso no sabe el Sr. Bustani que Israel esté armado hasta los dientes con armas nucleares y con las aeronaves y los tanques más avanzados?	Israel está armado hasta los dientes con armas nucleares y con las aeronaves y los tanques más avanzados.
+UN_2002	SNI78	¿Acaso no sabemos todos que cada persona sea un microcosmos?	Cada persona es un microcosmos.
+UN_2002	SNI79	Los autores del informe no mencionan que sólo recursos internos de naturaleza judicial penal puedan ser entendidos como recursos efectivos.	Sólo recursos internos de naturaleza judicial penal pueden ser entendidos como recursos efectivos.
+UN_2001	SNI80	Los reclamantes no demostraron que existieran circunstancias justificantes de fundadas esperanzas de realizar otras actividades del mismo carácter.	 Existían circunstancias justificantes de fundadas esperanzas de realizar otras actividades del mismo carácter.
+UN_2001	SNI81	Los dirigentes albaneses de Kosovo no deben olvidar que gracias a la comunidad internacional lograsen contener la embestida del régimen de Milosevic.	Gracias a la comunidad internacional los dirigentes albaneses lograron contener la embestida del régimen de Milosevic.
+UN_2003	SNI82	Sr. Sanders de los Países Bajos: Nosotros no creemos que se trate de una solución muy efectiva.	Se trata de una solución muy efectiva.
+UN_2003	SNI83	Los palestinos no entienden que los conflictos deban solucionarse por medio de la negociación y no por medio del terror.	Los conflictos deben solucionarse por medio de la negociación y no por medio del terror.
+UN_2003	SNI84	Los abogados no deben pensar que tengan un cheque en blanco contra el fondo de asistencia letrada.	Los abogados tienen un cheque en blanco contra el fondo de asistencia letrada.
+UN_2003	SNI85	El Observador de Palestina no dijo que el conflicto deba solucionarse.	El conflicto debe solucionarse.
+UN_2003	SNI86	Casi el 87% de los jóvenes de entre 15 y 19 años no creen que corran riesgo.	Los jóvenes de entre 15 y 19 años corren riesgo.
+UN_2003	SNI87	Las víctimas no sabían que se hubiera violado un derecho.	Se había violado un derecho.
+UN_2003	SNI88	El representante de Israel no ha mencionado que Israel haya anexado de facto las tierras en disputa.	Israel ha anexado de facto las tierras en disputa.
+UN_2003	SNI89	El representante de Israel no ha mencionado que el muro se haya construido en tierras en disputa.	El muro se ha construido en tierras en disputa.
+UN_2003	SNI90	Los reclamantes no han demostrado que pagos supuestamente adeudados estuvieran efectivamente aplazados.	Pagos supuestamente adeudados estaban efectivamente aplazados.

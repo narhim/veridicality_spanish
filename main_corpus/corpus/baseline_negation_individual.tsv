@@ -1,0 +1,91 @@
+SOURCE	ID	PREMISE	HYPOTHESIS
+PRETEST	BNI1	El hijo oyó que le estaban llamando.	Estaban llamando al hijo.
+PRETEST	BNI2	El presidente dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	BNI3	El experto creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	BNI4	La periodista sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	BNI5	El jugador anunció que iba a cambiar de equipo.	El jugador iba a cambiar de equipo.
+PRETEST	BNI6	El entrenador sospechaba que el equipo contrario había comprado al árbrito.	El equipo contrario había comprado al árbitro.
+PRETEST	BNI7	La escritora intuía que su nueva novela iba a tener éxito.	La nueva novela de la escritora iba a tener éxito.
+PRETEST	BNI8	El general creyó que los ataques habían cesado.	Los ataques habían cesado.
+PRETEST	BNI9	El cantante sabía que la canción iba a ser todo un éxito.	La canción iba a ser un éxito.
+PRETEST	BNI10	El hijo de la actriz oyó que le estaban llamando.	Estaban llamando al hijo de la actriz.
+PRETEST	BNI11	El presidente de España dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	BNI12	El experto en epidemias creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	BNI13	La periodista de LaSexta sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	BNI14	El jugador de fútbol anunció que iba a cambiar de equipo.	El jugador de fútbol iba a cambiar de equipo.
+PRETEST	BNI15	El entrenador de fútbol sospechaba que el equipo contrario había comprado al árbrito.	El equipo contrario había comprado al árbitro.
+PRETEST	BNI16	La autora de literatura juvenil intuía que su nueva novela iba a tener éxito.	La nueva novela de la autora de literatura juvenil iba a tener éxito.
+PRETEST	BNI17	El general británico creyó que los ataques habían cesado.	Los ataques habían cesado.
+PRETEST	BNI18	El cantante cubano sabía que la canción iba a ser todo un éxito.	La canción iba a ser un éxito.
+PRETEST	BNI19	El hijo de Nicole Kidman oyó que le estaban llamando.	Estaban llamando al hijo de Nicole Kidman.
+PRETEST	BNI20	José Luis Rodríguez Zapatero dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	BNI21	Fernando Simón creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	BNI22	Ana Pastor sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	BNI23	Sergio Ramos anunció que iba a cambiar de equipo.	Sergio Ramos iba a cambiar de equipo.
+PRETEST	BNI24	Julian Lopetegui sospechaba que el equipo contrario había comprado al árbrito.	El equipo contrario había comprado al árbitro.
+PRETEST	BNI25	J.K. Rowling intuía que su nueva novela iba a tener éxito.	La nueva novela de J.K. Rowling iba a tener éxito.
+PRETEST	BNI26	Bernard Montgomery creyó que los ataques habían cesado.	Los ataques habían cesado.
+PRETEST	BNI27	Maykel Osorbo sabía que la canción iba a ser todo un éxito.	La canción iba a ser un éxito.
+QUIJOTE	BNI28	Lotario: Creo que es tan bueno como el primero.	Es tan bueno como el primero.
+XNLI	BNI29	Bin Laden sabía que el FBI había retenido a Moussaoui.	El FBI había retenido a Moussaoui. 
+XNLI	BNI30	Bin Laden sabía que Moussaoui había sido detenido.	Moussaoui había sido detenido.
+XNLI	BNI31	Los operadores sabían que los rescates en techos eran imposibles.	Los rescates en techos eran imposibles. 
+OLD_NEWS	BNI32	La protagonista de esta apasionante historia sospecha que este encuentro es tan sólo una pieza en el malvado plan Toribio.	Este encuentro es tan sólo una pieza en el malvado plan Toribio. 
+OLD_NEWS	BNI33	La persona me declaró que eso era una iglesia.	Eso era una iglesia.
+OLD_NEWS	BNI34	El hombrón duda que es una carta segura de hits bailables para 2011.	Es una carta segura de hits bailables para 2011.  
+OLD_NEWS	BNI35	Algunos lectores entendían que se trataba, precisamente, de una crítica a la banalidad.	Precisamente se trataba de una crítica a la banalidad. 
+OLD_NEWS	BNI36	Un caminante distraído había advertido que allí se ocultaba un sofisticado equipo transmisor.	Allí se ocultaba un sofisticado equipo transmisor. 
+OLD_NEWS	BNI37	El lobisón sabe que todo aquello es más una pieza en el malvado plan de Toribio.	Todo aquello es más una pieza en el malvado plan de Toribio.
+OLD_NEWS	BNI38	Jorge Chávez sabía que lo peor estaba por venir.	Lo peor estaba por venir.
+OLD_NEWS	BNI39	Manassero olvidó que la hijita se llama Micaela.	La hijita se llama Micaela. 
+OLD_NEWS	BNI40	Los críticos de las acciones niponas dudan que se trata la mejor excusa para cubrir una caza comercial prohibida por comunidad internacional.	Se trata la mejor excusa para cubrir una caza comercial prohibida por comunidad internacional. 
+OLD_NEWS	BNI41	Lapiedra sabía que la joven colombiana era menor de edad.	La joven colombiana era menor de edad. 
+OLD_NEWS	BNI42	Francisco Macri pensaba que iba a ser cabeza de una de las familias industriales más grandes y poderosas el país.	Francisco Macri iba a ser cabeza de una de las familias industriales más grandes y poderosas el país. 
+OLD_NEWS	BNI43	El espectador casual sabía que estaba viendo la primera experiencia de FlashMob en el país.	El espectador estaba viendo la primera experiencia de FlashMob en el país. 
+OLD_NEWS	BNI44	El 90% de los padres de niños con sobrepeso aceptan que sus hijos tienen un problema.	Los niños con sobrepeso tienen un problema.
+UN_2000	BNI45	Según las investigaciones, el policía había podido ver que Baduan estaba desarmado.	Baduan estaba desarmado. 
+UN_2000	BNI46	Algunos representantes van a creer que el ex Rey de Libia antes de 1969 era de Mustaghanem, Argelia.	El ex Rey de Libia antes de 1969 era de Mustaghanem, Argelia . 
+UN_2000	BNI47	Algunos representantes aquí presentes saben que el ex Presidente de Túnez era natural de Libia.	El ex Presidente de Túnez era natural de Libia.
+UN_2000	BNI48	Más del 90% de los africanos infectados saben que son portadores la enfermedad.	Más del 90% de los africanos son portadores de la enfermedad.
+UN_2000	BNI49	Algunos delegados gubernamentales saben que también las mujeres son seres humanos.	Las mujeres son seres humanos. 
+UN_2000	BNI50	Sin embargo, Sutton ha probado que había pagado los honorarios.	Sutton había pagado los honorarios.
+UN_2000	BNI51	La mayor parte de los interlocutores de la misión dudaban que el Presidente Taylor ejercía una gran influencia e incluso control directo sobre FRU.	El Presidente Taylor ejercía una gran influencia e incluso control directo sobre FRU. 
+UN_2000	BNI52	En relación con los gastos del viaje a la India y Manila, Taisei ha demostrado que esos son gastos temporales extraordinarios.	Los gastos del viaje a la India y Manila son gastos temporales extraordinarios.
+UN_2000	BNI53	Los familiares de los muertos sabían que habían sido enterrados en el lote 29.	Los muertos habían sido enterrados en el lote 29.
+OLD_NEWS	BNI54	Entonces naturalmente Isabella sabía que la película iba a tener tal éxito.	La película iba a tener tal éxito.
+OLD_NEWS	BNI55	Gordon-Levitt sentía que estaba interpretando a Will.	Gordon-Levitt estaba interpretando a Will.
+OLD_NEWS	BNI56	Santos mencionó que la carta de los presidentes del Consejo de Estado y de la Corte está llena de lugares comunes y sin ningún argumento jurídico.	La carta de los presidentes del Consejo de Estado y de la Corte está llena de lugares comunes y sin ningún argumento jurídico.
+OLD_NEWS	BNI57	Stephanie sabe que se había metido en un lío.	Stephanie se había metido en un lío.
+OLD_NEWS	BNI58	Humala ha dicho que el modelo económico debe mantenerse intacto, sin cambios.	El modelo económico debe mantenerse intacto, sin cambios.
+OLD_NEWS	BNI59	Arias consideró que era falta.	Era falta.
+OLD_NEWS	BNI60	Yilmaz puede considerar que se ha producido una violación de la Convención.	Se ha producido una violación de la Convención.
+UN_2000	BNI61	El Presidente Shevardnadze: Puedo ocultar que la realidad del mundo de hoy nos decepciona en cierta manera.	La realidad del mundo de hoy les decepciona en cierta manera.
+UN_2000	BNI62	El Secretario General: Quiero decir que esta Organización debe ser capaz de ganar por sí sola todas estas batallas.	Esta Organización debe ser capaz de ganar por sí sola todas estas batallas.
+UN_2001	BNI63	Los autores han demostrado satisfactoriamente que corren un riesgo mayor que cualquier otro tamil residente en Colombo.	Los autores corren un riesgo mayor que cualquier otro tamil residente en Colombo. 
+UN_2001	BNI64	Más del 80% de los infectados saben que son portadores del VIH/SIDA.	Ellos son portadores del VIH/SIDA.
+UN_2002	BNI65	El representante de Israel puede entender que Israel es una potencia ocupante.	Israel es una potencia ocupante.
+UN_2002	BNI66	En ese momento, el autor sabía que su primo había sido ejecutado.	El primo del autor había sido ejecutado.
+UN_2002	BNI67	La Representante Especial puede ignorar que la guerrilla viola los derechos de los defensores de los derechos humanos.	La guerrilla viola los derechos de los defensores de los derechos humanos. 
+UN_2002	BNI68	Miembros del Grupo Especial: Sobre la base de esos hechos podemos concluir que las Comunidades Europeas exploraron las posibilidades de hacer uso de soluciones constructivas.	Las Comunidades Europeas exploraron las posibilidades de hacer uso de soluciones constructivas.
+UN_2002	BNI69	Miembros de la delegación de Viet Nam: Consideramos que hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.	Hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.
+DAVES	BNI70	El periodista sospechaba que el actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.	El actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.
+DAVES	BNI71	Los profesores podrán decir que el chico es tonto.	El chico es tonto.
+OLD_NEWS	BNI72	La conductora sabía que las fotos del desnudo de Susana estaban en internet.	Las fotos del desnudo de Susana estaban en internet. 
+OLD_NEWS	BNI73	Los abogados: Creemos que una persona amenazada o con problemas iba a andar así.	Una persona amenazada o con problemas iba a andar así.
+UN_2000	BNI74	Miembro de la Red del Tercer Mundo: Estamos negando que en el Norte de África han aumentado las desigualdades.	En el Norte de África han aumentado las desigualdades.
+UN_2000	BNI75	Algunos saben que una parte de la familia o clan del Presidente del Chad vive en el Chad.	Una parte de la familia o clan del Presidente del Chad vive en el Chad.
+UN_2000	BNI76	El autor puede pretender que es víctima de violación de sus derechos conforme al párrafo 4 del artículo 6 del Pacto.	El autor es víctima de violación de sus derechos conforme al párrafo 4 del artículo 6 del Pacto.
+UN_2000	BNI77	¿Acaso sabe el Sr. Bustani que Israel está armado hasta los dientes con armas nucleares y con las aeronaves y los tanques más avanzados?	Israel está armado hasta los dientes con armas nucleares y con las aeronaves y los tanques más avanzados.
+UN_2002	BNI78	¿Acaso sabemos todos que cada persona es un microcosmos?	Cada persona es un microcosmos.
+UN_2002	BNI79	Los autores del informe mencionan que sólo recursos internos de naturaleza judicial penal pueden ser entendidos como recursos efectivos.	Sólo recursos internos de naturaleza judicial penal pueden ser entendidos como recursos efectivos.
+UN_2001	BNI80	Los reclamantes demostraron que existían circunstancias justificantes de fundadas esperanzas de realizar otras actividades del mismo carácter.	 Existían circunstancias justificantes de fundadas esperanzas de realizar otras actividades del mismo carácter.
+UN_2001	BNI81	Los dirigentes albaneses de Kosovo deben olvidar que gracias a la comunidad internacional lograron contener la embestida del régimen de Milosevic.	Gracias a la comunidad internacional los dirigentes albaneses lograron contener la embestida del régimen de Milosevic.
+UN_2003	BNI82	Sr. Sanders de los Países Bajos: Nosotros creemos que se trata de una solución muy efectiva.	Se trata de una solución muy efectiva.
+UN_2003	BNI83	Los palestinos entienden que los conflictos deben solucionarse por medio de la negociación y no por medio del terror.	Los conflictos deben solucionarse por medio de la negociación y no por medio del terror.
+UN_2003	BNI84	Los abogados deben pensar que tienen un cheque en blanco contra el fondo de asistencia letrada.	Los abogados tienen un cheque en blanco contra el fondo de asistencia letrada.
+UN_2003	BNI85	El Observador de Palestina dijo que el conflicto debe solucionarse.	El conflicto debe solucionarse.
+UN_2003	BNI86	Casi el 87% de los jóvenes de entre 15 y 19 años creen que corren riesgo.	Los jóvenes de entre 15 y 19 años corren riesgo.
+UN_2003	BNI87	Las víctimas sabían que se había violado un derecho.	Se había violado un derecho.
+UN_2003	BNI88	El representante de Israel ha mencionado que Israel ha anexado de facto las tierras en disputa.	Israel ha anexado de facto las tierras en disputa.
+UN_2003	BNI89	El representante de Israel ha mencionado que el muro se ha construido en tierras en disputa.	El muro se ha construido en tierras en disputa.
+UN_2003	BNI90	Los reclamantes han demostrado que pagos supuestamente adeudados estaban efectivamente aplazados.	Pagos supuestamente adeudados estaban efectivamente aplazados.

@@ -1,0 +1,11 @@
+Corpus generation:
+-Extracted sentencen from the different corpora in the indicative condition with no simple future or conditional tenses allowed.
+-Made the following modifications (roughly:
+	1.-Shortened, when necessary, to be under 30 tokens for premises.
+	2.-No more than 2 verbs in personal form (matrix and embedded verb) --> infinitives and participles may appear.
+	3.-Reference resolution when needed and clear. Ex.: Este problema --> la protección de los niños afectados por los conflictos armados.
+		At least in one case where the solution wasn't clear, the determiner were simply changed sus abogados --> los abogados
+	4.-Collocations like "caber duda" were avoided.
+	5.-In a few cases where the verb was in first person (singular or plural) the agent is just put ahead of the premise in the following format: "Lotario: Pienso que el cielo es azul".
+	6.-In one case the aspect of the embedded was change to allow mood alternation (there are no simple forms in perfect aspect of the subjunctive).
+	7.-Adverbs modifying the matrix verb were removed.

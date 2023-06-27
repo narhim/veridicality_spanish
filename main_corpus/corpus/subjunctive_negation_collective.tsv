@@ -1,0 +1,91 @@
+SOURCE	ID	PREMISE	HYPOTHESIS
+PRETEST	SNC1	El gobierno no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+PRETEST	SNC2	El comité de expertos no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+PRETEST	SNC3	El periódico no sabía que la noticia fuera falsa.	La noticia era falsa.
+PRETEST	SNC4	La junta directiva no pensó que la reunión con los abogados hubiera ido bien.	La reunión con los abogados había ido bien.
+PRETEST	SNC5	La familia no anunció que hubiera recortado gastos.	La familia había recortado gastos.
+PRETEST	SNC6	La universidad no anunció que las clases fueran a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	SNC7	El sindicato no sospechaba que el gobierno no fuera a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	SNC8	El ministerio no comunicó que fuera a implementar nuevas medidas.	El ministerio iba a implementar nuevas medidas.
+PRETEST	SNC9	El canal de televisión no anunció que la periodista fuera a ser despedida.	La periodista iba a ser despedida.
+PRETEST	SNC10	El gobierno nacional no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+PRETEST	SNC11	El comité de expertos del gobierno no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+PRETEST	SNC12	El periódico nacional no sabía que la noticia fuera falsa.	La noticia era falsa.
+PRETEST	SNC13	La junta directiva del club de fútbol no pensó que la reunión con los abogados hubiera ido bien.	La reunión con los abogados había ido bien.
+PRETEST	SNC14	La familia real no anunció que hubiera recortado gastos.	La familia real había recortado gastos.
+PRETEST	SNC15	La universidad madrileña no anunció que las clases fueran a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	SNC16	El sindicato de la empresa no sospechaba que el gobierno no fuera a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	SNC17	El Ministerio de Sanidad no comunicó que fuera a implementar nuevas medidas.	El Ministerio de Sanidad iba a implementar nuevas medidas.
+PRETEST	SNC18	La televisión pública no anunció que la periodista fuera a ser despedida.	La periodista iba a ser despedida.
+PRETEST	SNC19	El gobierno español no dijo que el país tuviera problemas económicos.	El país tenía problemas económicos.
+PRETEST	SNC20	El comité de expertos del gobierno español no creía que la tendencia hubiera cambiado.	La tendencia había cambiado.
+PRETEST	SNC21	La Razón no sabía que la noticia fuera falsa.	La noticia era falsa.
+PRETEST	SNC22	La junta directiva del Barça no pensó que la reunión con los abogados hubiera ido bien.	La reunión con los abogados había ido bien.
+PRETEST	SNC23	La familia real española no anunció que hubiera recortado gastos.	La familia real española había recortado gastos.
+PRETEST	SNC24	La UCM no anunció que las clases fueran a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	SNC25	Comisiones Obreras no sospechaba que el gobierno no fuera a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	SNC26	El Ministerio de Sanidad español no comunicó que fuera a implementar nuevas medidas.	El Ministerio de Sanidad español iba a implementar nuevas medidas.
+PRETEST	SNC27	RTVE no anunció que la periodista fuera a ser despedida.	La periodista iba a ser despedida.
+DAVES	SNC28	Muchos centros educativos no saben que sea una competencia.	Es una competencia. 
+OLD_NEWS	SNC29	La mayoría de los clientes no sabe que él sea escritor.	Él es escritor.
+UN_2000	SNC30	Sin un órgano de esa clase la Conferencia de Desarme no puede afirmar que esté haciendo frente a las amenazas más graves para la seguridad internacional.	La Conferencia de Desarme está haciendo frente a las amenazas más graves para la seguridad internacional. 
+UN_2000	SNC31	La mayoría de organizaciones regionales no consideraba que la protección de los niños afectados por los conflictos armados perteneciera a sus programas.	La protección de los niños afectados por los conflictos armados problema pertenecía a los programas de las organizaciones regionales.
+UN_2000	SNC32	En otras palabras, las Naciones Unidas no pueden afirmar que la composición actual del Consejo de Seguridad sea representativa de todos sus miembros.	La composición actual del Consejo de Seguridad es representativa de todos sus miembros. 
+UN_2000	SNC33	El Comité no debe considerar que el asunto se limite a un examen de fondo de la comunicación.	El asunto se limita a un examen de fondo de la comunicación. 
+UN_2000	SNC34	El Comité Permanente no ha considerado que las opiniones expresadas en 1996 por el Comité Preparatorio constituyeran los trabajos preparatorios.	Las opiniones expresadas en 1996 por el Comité Preparatorio constituían los trabajos preparatorios. 
+UN_2000	SNC35	El personal de la Oficina de las Naciones Unidas en Nairobi no advirtió que el número de cuenta indicado en el fax de la Misión fuera ligeramente distinto.	El número de cuenta indicado en el fax de la Misión era ligeramente distinto.
+UN_2000	SNC36	La comunidad internacional no debía dudar que aún existiera el racismo.	El racismo aún existía.
+UN_2000	SNC37	Mientras el Comité encargado del Cumplimiento no determine que dicha Parte no cumpla una o varias de las condiciones enunciadas en el párrafo 1.	Dicha Parte no cumple una o varias de las condiciones enunciadas en el párrafo 1.
+UN_2000	SNC38	Así pues, el Gobierno no niega que haya permitido a los acusados ser examinados y tratados por sus propios médicos.	El Gobierno ha permitido a los acusados ser examinados y tratados por sus propios médicos.
+UN_2000	SNC39	Los primeros gobiernos no quisieron admitir que la pobreza constituyera un problema.	La pobreza constituía un problema.
+UN_2000	SNC40	Ahora bien, la Comisión no debiera olvidar que el Grupo de Trabajo sobre las Poblaciones Indígenas sea la única instancia permanente abierta de manera democrática a los indígenas.	El Grupo de Trabajo sobre las Poblaciones Indígenas es la única instancia permanente abierta de manera democrática a los indígenas. 
+UN_2000	SNC41	Eritrea no sospechaba que esto formara parte de un proyecto coherente a largo plazo organizado por las autoridades de Etiopía.	Esto formaba parte de un proyecto coherente a largo plazo organizado por las autoridades de Etiopía.
+OLD_NEWS	SNC42	La gente no entiende que discapacidad sea diferente a incapacidad.	Discapacidad es diferente a incapacidad.
+UN_2001	SNC43	Suiza no puede negar que abrigase esperanzas de que se aprobase el documento.	Suiza abrigaba esperanzas de que se aprobase el documento. 
+UN_2001	SNC44	Mi delegación no cree que esta situación sea prometedora.	Esta situación es prometedora.
+UN_2001	SNC45	Los Estados Unidos no consideran que en cada territorio el proceso de descolonización deba transcurrir de la misma manera.	En cada territorio el proceso de descolonización debe transcurrir de la misma manera. 
+UN_2001	SNC46	La comunidad internacional no debe olvidar que para ciertos países la acogida de los refugiados y los daños ocasionados al medio ambiente por su prolongada estadía supongan una enorme carga.	Para ciertos países la acogida de los refugiados y los daños ocasionados al medio ambiente por su prolongada estadía suponen una enorme carga.
+UN_2001	SNC47	La Secretaría no debe considerar que la publicación en el sitio de la CDI en la web sustituya a la publicación en los idiomas oficiales de las Naciones Unidas.	La publicación en el sitio de la CDI en la web sustituye a la publicación en los idiomas oficiales de las Naciones Unidas.
+UN_2001	SNC48	La República de Armenia no considera que se haya transferido el equipo.	Se ha transferido el equipo.
+UN_2001	SNC49	La Oficina del Director de la Fiscalía no había confirmado que siguieran pendientes las acusaciones contra los carceleros.	Seguían pendientes las acusaciones contra los carceleros.
+UN_2001	SNC50	El país anfitrión no había reconocido que el requerimiento de congelación fuera intrínsecamente ilícito.	El requirimiento de congelación era intrínsicamente ilícito.
+UN_2001	SNC51	El mundo no debe olvidar que sea una familia humana, independientemente de las diferencias.	El mundo es una familia humana, independientemente de las diferencias.
+UN_2001	SNC52	El Grupo de Expertos no comprende que la población de la región oriental del país estuviera amenazada por hambruna. 	La población de la región oriental del país estaba amenazada por hambruna.
+UN_2001	SNC53	Sin embargo, el Consejo no debe pensar que esas cifras representen la idea de un fiscal a la búsqueda de casos.	Esas cifras representan la idea de un fiscal a la búsqueda de casos.
+UN_2001	SNC54	National no demostró que la cuenta ya no exista.	La cuenta ya no existe.
+UN_2001	SNC55	Los medios de difusión general no sabían que los periodistas indígenas estuvieran también preparados para tener una actitud crítica.	Los periodistas indígenas estaban también preparados para tener una actitud crítica.
+UN_2001	SNC56	La Comisión no oculta que siguan existiendo ciertos problemas en la práctica.	Siguen existiendo ciertos problemas en la práctica.
+UN_2001	SNC57	El Consejo no debe olvidar que el pueblo palestino haya vivido bajo una de las ocupaciones militares más prolongadas de la historia moderna.	El pueblo palestino ha vivido bajo una de las ocupaciones militares más prolongadas de la historia moderna.
+UN_2001	SNC58	La comunidad internacional no debe olvidar que el sector menos atendido sea el de las PYMES.	El sector menos atendido es el de las PYMES.
+UN_2002	SNC59	Su Gobierno no niega que la aplicación práctica de esas disposiciones deje mucho que desear.	La aplicación práctica de esas disposiciones deja mucho que desear.
+UN_2002	SNC60	El Estado Parte no discute que tales decisiones debieran tomarse respetando las disposiciones del artículo 25 del Pacto.	Tales decisiones debían tomarse respetando las disposiciones del artículo 25 del Pacto.
+UN_2002	SNC61	Los gobiernos no pueden negar que los jóvenes tengan relaciones sexuales.	Los jóvenes tienen relaciones sexuales. 
+UN_2002	SNC62	El Comité no puede considerar que se haya violado el párrafo 1 del artículo 9 del Pacto.	Se ha violado el párrafo 1 del artículo 9 del Pacto.
+UN_2002	SNC63	La empresa no pudo demostrar que se hubiera cumplido esa disposición.	Se había cumplido esa disposición. 
+UN_2002	SNC64	Uganda no puede suponer que la creación de una Comisión para investigar estas imputaciones sea suficiente.	La creación de una Comisión para investigar estas imputaciones es suficiente.
+UN_2002	SNC65	El Grupo no ha considerado que las cantidades ajustadas formen parte de pérdidas pertinentes por insuficiencia de pruebas.	Las cantidades ajustadas forman parte de pérdidas pertinentes por insuficiencia de pruebas.
+UN_2002	SNC66	La Polytechna no ha demostrado que no tuviera otra opción salvo la de obtener créditos e incurrir en obligaciones ulteriores de adeudamiento con sus clientes locales.	La Polytechna no tenía otra opción salvo la de obtener créditos e incurrir en obligaciones ulteriores de adeudamiento con sus clientes locales.  
+UN_2002	SNC67	La Santa Fe no descubrió que la KDC hubiera incurrido en costos no reembolsados de movilización de las torres.	La KDC había incurrido en costos no reembolsados de movilización de las torres.
+UN_2002	SNC68	La Sasref no pudo demostrar que se hubieran gastado 500.000 SRls.	Se habían gastado 500.000 SRls.
+UN_2002	SNC69	El Consejo de Seguridad no olvidará que haya venido recordando sistemáticamente a la CCD-Goma su obligación de desmilitarizar la ciudad de Kisangani.	El Consejo de Seguridad ha venido recordando sistemáticamente a la CCD-Goma su obligación de desmilitarizar la ciudad de Kisangani.
+UN_2002	SNC70	Un Estado no podrá aducir que una reserva esté viciada por el hecho de haber sido formulada en infracción de una disposición de su derecho interno.	Una reserva está viciada por el hecho de haber sido formulada en infracción de una disposición de su derecho interno.
+UN_2002	SNC71	El Comité no quería decir que Lituania haya incorporado una parte de la Convención y otra no.	Lituania ha incorporado una parte de la Convención y otra no.
+DAVES	SNC72	El partido comunista no sospechaba que el actor español Willy Toledo tuviera en planes quedarse a vivir en Cuba.	El actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.
+UN_2000	SNC73	La “mayoría” no negaba que el Mandato pudiera haber reconocido el derecho de todos los Estados Miembros de la Sociedad a hacer cumplir las obligaciones al mandatario.	El Mandato podía haber reconocido el derecho de todos los Estados Miembros de la Sociedad a hacer cumplir las obligaciones al mandatario.
+UN_2000	SNC74	El Foro Masculino de Dinamarca no cree que haya contradicción entre el interés del hijo y la custodia compartida.	Hay contradicción entre el interés del hijo y la custodia compartida.
+UN_2000	SNC75	El Grupo de Trabajo no puede sostener que la detención de Pedro Katunda Kambangu viole el Pacto Internacional de Derechos Civiles y Políticos.	La detención de Pedro Katunda Kambangu viola el Pacto Internacional de Derechos Civiles y Políticos.
+UN_2003	SNC76	En el asunto Barcelona Traction la Corte no declaró que la sociedad debiera haber dejado de existir en el lugar de su constitución.	La sociedad debía haber dejado de existir en el lugar de su constitución. 
+UN_2003	SNC77	En el momento de la ratificación, México no declaró que no reconociera la competencia del Comité prevista en el artículo 20 de la Convención.	México no reconocía la competencia del Comité prevista en el artículo 20 de la Convención.
+UN_2003	SNC78	El Gobierno del territorio no considera que tenga mandato para conseguir la independencia.	El Gobierno del territorio tiene mandato para conseguir la independencia. 
+UN_2003	SNC79	La Asamblea General no podría haber previsto que esa “conveniencia” fuera un gran eufemismo.	Esa "conveniencia" era un gran eufemismo.
+UN_2003	SNC80	Israel no niega que en el ejercicio de su derecho inherente a defenderse del terrorismo más brutal deba actuar dentro de los límites del derecho internacional.	En el ejercicio de su derecho inherente a defenderse del terrorismo más brutal Israel debe actuar dentro de los límites del derecho internacional.
+UN_2003	SNC81	La multitud no distinguió que se tratase de vehículos de las Naciones Unidas.	Se trataba de vehículos de las Naciones Unidas.
+UN_2003	SNC82	El Reino Unido no sabía que existiese una relación entre consumo de energía en sus casas o autos y el cambio climático.	Existía una relación entre consumo de energía en sus casas o autos y el cambio climático.
+UN_2003	SNC83	El Gobierno de Nyamena no podía ignorar que en su frontera se estuviera preparando una campaña militar contra las ciudades centroafricanas.	En la frontera de Nyamena se estaba preparando una campaña militar contra las ciudades centroafricanas.
+UN_2003	SNC84	El Gobierno de Haití no consideraría que las motivaciones políticas justifiquen la denegación de peticiones de extradición de presuntos terroristas.	Las motivaciones políticas justifican la denegación de peticiones de extradición de presuntos terroristas. 
+UN_2003	SNC85	El Iraq no demostró que estuviera cambiando de actitud de manera radical.	El Iraq estaba cambiando de actitud de manera radical.
+UN_2003	SNC86	El Grupo no considera que se justifiquen medidas de restablecimiento de la vegetación en las zonas dañadas por alquitranato.	Se justifican medidas de restablecimiento de la vegetación en las zonas dañadas por alquitranato.
+OLD_NEWS	SNC87	La cadena no sabía que las fotos del desnudo de Susana estuvieran en internet.	Las fotos del desnudo de Susana estaban en internet. 
+UN_2002	SNC88	La delegación de Viet Nam no considera que haya que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.	Hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.
+UN_2003	SNC89	El Gobierno de Palestina no entiende que los conflictos deban solucionarse por medio de la negociación y no por medio del terror.	Los conflictos deben solucionarse por medio de la negociación y no por medio del terror.
+OLD_NEWS	SNC90	El Gobierno de Perú no ha dicho que el modelo económico deba mantenerse intacto, sin cambios.	El modelo económico debe mantenerse intacto, sin cambios.

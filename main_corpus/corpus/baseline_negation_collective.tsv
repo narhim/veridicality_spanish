@@ -1,0 +1,91 @@
+SOURCE	ID	PREMISE	HYPOTHESIS
+PRETEST	BNC1	El gobierno dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	BNC2	El comité de expertos creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	BNC3	El periódico sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	BNC4	La junta directiva pensó que la reunión con los abogados había ido bien.	La reunión con los abogados había ido bien. 
+PRETEST	BNC5	La familia anunció que había recortado gastos.	La familia había recortado gastos.
+PRETEST	BNC6	La universidad anunció que las clases iban a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	BNC7	El sindicato sospechaba que el gobierno no iba a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	BNC8	El ministerio comunicó que iba a implementar nuevas medidas.	El ministerio iba a implementar nuevas medidas.
+PRETEST	BNC9	El canal de televisión anunció que la periodista iba a ser despedida.	La periodista iba a ser despedida.
+PRETEST	BNC10	El gobierno nacional dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	BNC11	El comité de expertos del gobierno creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	BNC12	El periódico nacional sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	BNC13	La junta directiva del club de fútbol pensó que la reunión con los abogados había ido bien.	La reunión con los abogados había ido bien. 
+PRETEST	BNC14	La familia real anunció que había recortado gastos.	La familia real había recortado gastos.
+PRETEST	BNC15	La universidad madrileña anunció que las clases iban a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	BNC16	El sindicato de la empresa sospechaba que el gobierno no iba a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	BNC17	El Ministerio de Sanidad comunicó que iba a implementar nuevas medidas.	El Ministerio de Sanidad iba a implementar nuevas medidas.
+PRETEST	BNC18	La televisión pública anunció que la periodista iba a ser despedida.	La periodista iba a ser despedida.
+PRETEST	BNC19	El gobierno español dijo que el país tenía problemas económicos.	El país tenía problemas económicos.
+PRETEST	BNC20	El comité de expertos del gobierno español creía que la tendencia había cambiado.	La tendencia había cambiado.
+PRETEST	BNC21	La Razón sabía que la noticia era falsa.	La noticia era falsa.
+PRETEST	BNC22	La junta directiva del Barça pensó que la reunión con los abogados había ido bien.	La reunión con los abogados había ido bien.
+PRETEST	BNC23	La familia real española anunció que había recortado gastos.	La familia real española había recortado gastos.
+PRETEST	BNC24	La UCM anunció que las clases iban a ser presenciales.	Las clases iban a ser presenciales.
+PRETEST	BNC25	Comisiones Obreras sospechaba que el gobierno no iba a cumplir lo acordado.	El gobierno no iba a cumplir lo acordado.
+PRETEST	BNC26	El Ministerio de Sanidad español comunicó que iba a implementar nuevas medidas.	El Ministerio de Sanidad español iba a implementar nuevas medidas.
+PRETEST	BNC27	RTVE anunció que la periodista iba a ser despedida.	La periodista iba a ser despedida.
+DAVES	BNC28	Muchos centros educativos saben que es una competencia.	Es una competencia. 
+OLD_NEWS	BNC29	La mayoría de los clientes sabe que él es escritor.	Él es escritor.
+UN_2000	BNC30	Sin un órgano de esa clase la Conferencia de Desarme puede afirmar que está haciendo frente a las amenazas más graves para la seguridad internacional.	La Conferencia de Desarme está haciendo frente a las amenazas más graves para la seguridad internacional. 
+UN_2000	BNC31	La mayoría de organizaciones regionales consideraba que la protección de los niños afectados por los conflictos armados pertenecía a sus programas.	La protección de los niños afectados por los conflictos armados problema pertenecía a los programas de las organizaciones regionales.
+UN_2000	BNC32	En otras palabras, las Naciones Unidas pueden afirmar que la composición actual del Conferencia de Desarme  es representativa de todos sus miembros.	La composición actual del Consejo de Seguridad es representativa de todos sus miembros. 
+UN_2000	BNC33	El Comité debe considerar que el asunto se limita a un examen de fondo de la comunicación.	El asunto se limita a un examen de fondo de la comunicación. 
+UN_2000	BNC34	El Comité Permanente ha considerado que las opiniones expresadas en 1996 por el Comité Preparatorio constituían los trabajos preparatorios.	Las opiniones expresadas en 1996 por el Comité Preparatorio constituían los trabajos preparatorios. 
+UN_2000	BNC35	El personal de la Oficina de las Naciones Unidas en Nairobi advirtió que el número de cuenta indicado en el fax de la Misión era ligeramente distinto.	El número de cuenta indicado en el fax de la Misión era ligeramente distinto.
+UN_2000	BNC36	La comunidad internacional debía dudar que aún existía el racismo.	El racismo aún existía.
+UN_2000	BNC37	Mientras el Comité encargado del Cumplimiento determine que dicha Parte no cumple una o varias de las condiciones enunciadas en el párrafo 1.	Dicha Parte no cumple una o varias de las condiciones enunciadas en el párrafo 1.
+UN_2000	BNC38	Así pues, el Gobierno niega que ha permitido a los acusados ser examinados y tratados por sus propios médicos.	El Gobierno ha permitido a los acusados ser examinados y tratados por sus propios médicos.
+UN_2000	BNC39	Los primeros gobiernos quisieron admitir que la pobreza constituía un problema.	La pobreza constituía un problema.
+UN_2000	BNC40	Ahora bien, la Comisión debiera olvidar que el Grupo de Trabajo sobre las Poblaciones Indígenas es la única instancia permanente abierta de manera democrática a los indígenas.	El Grupo de Trabajo sobre las Poblaciones Indígenas es la única instancia permanente abierta de manera democrática a los indígenas. 
+UN_2000	BNC41	Eritrea sospechaba que esto formaba parte de un proyecto coherente a largo plazo organizado por las autoridades de Etiopía.	Esto formaba parte de un proyecto coherente a largo plazo organizado por las autoridades de Etiopía.
+OLD_NEWS	BNC42	La gente entiende que discapacidad es diferente a incapacidad.	Discapacidad es diferente a incapacidad.
+UN_2001	BNC43	Suiza puede negar que abrigaba esperanzas de que se aprobase el documento.	Suiza abrigaba esperanzas de que se aprobase el documento. 
+UN_2001	BNC44	Mi delegación cree que esta situación es prometedora.	Esta situación es prometedora.
+UN_2001	BNC45	Los Estados Unidos consideran que en cada territorio el proceso de descolonización debe transcurrir de la misma manera.	En cada territorio el proceso de descolonización debe transcurrir de la misma manera. 
+UN_2001	BNC46	La comunidad internacional debe olvidar que para ciertos países la acogida de los refugiados y los daños ocasionados al medio ambiente por su prolongada estadía suponen una enorme carga.	Para ciertos países la acogida de los refugiados y los daños ocasionados al medio ambiente por su prolongada estadía suponen una enorme carga.
+UN_2001	BNC47	La Secretaría debe considerar que la publicación en el sitio de la CDI en la web sustituye a la publicación en los idiomas oficiales de las Naciones Unidas.	La publicación en el sitio de la CDI en la web sustituye a la publicación en los idiomas oficiales de las Naciones Unidas.
+UN_2001	BNC48	La República de Armenia considera que se ha transferido el equipo.	Se ha transferido el equipo.
+UN_2001	BNC49	La Oficina del Director de la Fiscalía había confirmado que seguían pendientes las acusaciones contra los carceleros.	Seguían pendientes las acusaciones contra los carceleros.
+UN_2001	BNC50	El país anfitrión había reconocido que el requerimiento de congelación era intrínsecamente ilícito.	El requirimiento de congelación era intrínsicamente ilícito.
+UN_2001	BNC51	El mundo debe olvidar que es una familia humana, independientemente de las diferencias.	El mundo es una familia humana, independientemente de las diferencias.
+UN_2001	BNC52	El Grupo de Expertos comprende que la población de la región oriental del país estaba amenazada por hambruna. 	La población de la región oriental del país estaba amenazada por hambruna.
+UN_2001	BNC53	Sin embargo, el Consejo debe pensar que esas cifras representan la idea de un fiscal a la búsqueda de casos.	Esas cifras representan la idea de un fiscal a la búsqueda de casos.
+UN_2001	BNC54	National demostró que la cuenta ya no existe.	La cuenta ya no existe.
+UN_2001	BNC55	Los medios de difusión general sabían que los periodistas indígenas estaban también preparados para tener una actitud crítica.	Los periodistas indígenas estaban también preparados para tener una actitud crítica. 
+UN_2001	BNC56	La Comisión oculta que siguen existiendo ciertos problemas en la práctica.	Siguen existiendo ciertos problemas en la práctica.
+UN_2001	BNC57	El Consejo debe olvidar que el pueblo palestino ha vivido bajo una de las ocupaciones militares más prolongadas de la historia moderna.	El pueblo palestino ha vivido bajo una de las ocupaciones militares más prolongadas de la historia moderna.
+UN_2001	BNC58	La comunidad internacional debe olvidar que el sector menos atendido es el de las PYMES.	El sector menos atendido es el de las PYMES.
+UN_2002	BNC59	Su Gobierno niega que la aplicación práctica de esas disposiciones deja mucho que desear.	La aplicación práctica de esas disposiciones deja mucho que desear.
+UN_2002	BNC60	El Estado Parte discute que tales decisiones debían tomarse respetando las disposiciones del artículo 25 del Pacto.	Tales decisiones debían tomarse respetando las disposiciones del artículo 25 del Pacto.
+UN_2002	BNC61	Los gobiernos pueden negar que los jóvenes tienen relaciones sexuales.	Los jóvenes tienen relaciones sexuales. 
+UN_2002	BNC62	El Comité puede considerar que se ha violado el párrafo 1 del artículo 9 del Pacto.	Se ha violado el párrafo 1 del artículo 9 del Pacto.
+UN_2002	BNC63	La empresa pudo demostrar que se había cumplido esa disposición.	Se había cumplido esa disposición. 
+UN_2002	BNC64	Uganda puede suponer que la creación de una Comisión para investigar estas imputaciones es suficiente.	La creación de una Comisión para investigar estas imputaciones es suficiente.
+UN_2002	BNC65	El Grupo ha considerado que las cantidades ajustadas forman parte de pérdidas pertinentes por insuficiencia de pruebas	Las cantidades ajustadas forman parte de pérdidas pertinentes por insuficiencia de pruebas.
+UN_2002	BNC66	La Polytechna ha demostrado que no tenía otra opción salvo la de obtener créditos e incurrir en obligaciones ulteriores de adeudamiento con sus clientes locales.	La Polytechna no tenía otra opción salvo la de obtener créditos e incurrir en obligaciones ulteriores de adeudamiento con sus clientes locales.
+UN_2002	BNC67	La Santa Fe descubrió que la KDC había incurrido en costos no reembolsados de movilización de las torres.	La KDC había incurrido en costos no reembolsados de movilización de las torres.
+UN_2002	BNC68	La Sasref pudo demostrar que se habían gastado 500.000 SRls.	Se habían gastado 500.000 SRls.
+UN_2002	BNC69	El Consejo de Seguridad olvidará que ha venido recordando sistemáticamente a la CCD-Goma su obligación de desmilitarizar la ciudad de Kisangani.	El Consejo de Seguridad ha venido recordando sistemáticamente a la CCD-Goma su obligación de desmilitarizar la ciudad de Kisangani.
+UN_2002	BNC70	Un Estado podrá aducir que una reserva está viciada por el hecho de haber sido formulada en infracción de una disposición de su derecho interno.	Una reserva está viciada por el hecho de haber sido formulada en infracción de una disposición de su derecho interno.
+UN_2002	BNC71	El Comité quería decir que Lituania ha incorporado una parte de la Convención y otra no.	Lituania ha incorporado una parte de la Convención y otra no.
+DAVES	BNC72	El partido comunista sospechaba que el actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.	El actor español Willy Toledo tenía en planes quedarse a vivir en Cuba.
+UN_2000	BNC73	La “mayoría” negaba que el Mandato podía haber reconocido el derecho de todos los Estados Miembros de la Sociedad a hacer cumplir las obligaciones al mandatario.	El Mandato podía haber reconocido el derecho de todos los Estados Miembros de la Sociedad a hacer cumplir las obligaciones al mandatario.
+UN_2000	BNC74	El Foro Masculino de Dinamarca cree que hay contradicción entre el interés del hijo y la custodia compartida.	Hay contradicción entre el interés del hijo y la custodia compartida.
+UN_2000	BNC75	El Grupo de Trabajo puede sostener que la detención de Pedro Katunda Kambangu viola el Pacto Internacional de Derechos Civiles y Políticos.	La detención de Pedro Katunda Kambangu viola el Pacto Internacional de Derechos Civiles y Políticos.
+UN_2003	BNC76	En el asunto Barcelona Traction la Corte declaró que la sociedad debía haber dejado de existir en el lugar de su constitución.	La sociedad debía haber dejado de existir en el lugar de su constitución. 
+UN_2003	BNC77	En el momento de la ratificación, México declaró que no reconocía la competencia del Comité prevista en el artículo 20 de la Convención.	México no reconocía la competencia del Comité prevista en el artículo 20 de la Convención.
+UN_2003	BNC78	El Gobierno del territorio considera que tiene mandato para conseguir la independencia.	El Gobierno del territorio tiene mandato para conseguir la independencia. 
+UN_2003	BNC79	La Asamblea General podría haber previsto que esa “conveniencia” era un gran eufemismo.	Esa "conveniencia" era un gran eufemismo.
+UN_2003	BNC80	Israel niega que en el ejercicio de su derecho inherente a defenderse del terrorismo más brutal debe actuar dentro de los límites del derecho internacional.	En el ejercicio de su derecho inherente a defenderse del terrorismo más brutal Israel debe actuar dentro de los límites del derecho internacional.
+UN_2003	BNC81	La multitud distinguió que se trataba de vehículos de las Naciones Unidas.	Se trataba de vehículos de las Naciones Unidas.
+UN_2003	BNC82	El Reino Unido sabía que existía una relación entre consumo de energía en sus casas o autos y el cambio climático.	Existía una relación entre consumo de energía en sus casas o autos y el cambio climático.
+UN_2003	BNC83	El Gobierno de Nyamena podía ignorar que en su frontera se estaba preparando una campaña militar contra las ciudades centroafricanas.	En la frontera de Nyamena se estaba preparando una campaña militar contra las ciudades centroafricanas.
+UN_2003	BNC84	El Gobierno de Haití consideraría que las motivaciones políticas justifican la denegación de peticiones de extradición de presuntos terroristas.	Las motivaciones políticas justifican la denegación de peticiones de extradición de presuntos terroristas. 
+UN_2003	BNC85	El Iraq demostró que estaba cambiando de actitud de manera radical.	El Iraq estaba cambiando de actitud de manera radical.
+UN_2003	BNC86	El Grupo considera que se justifican medidas de restablecimiento de la vegetación en las zonas dañadas por alquitranato.	Se justifican medidas de restablecimiento de la vegetación en las zonas dañadas por alquitranato.
+OLD_NEWS	BNC87	La cadena sabía que las fotos del desnudo de Susana estaban en internet.	Las fotos del desnudo de Susana estaban en internet. 
+UN_2002	BNC88	La delegación de Viet Nam considera que hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.	Hay que reconocer debidamente la necesidad de mejorar los procedimientos de trabajo.
+UN_2003	BNC89	El Gobierno de Palestina entiende que los conflictos deben solucionarse por medio de la negociación y no por medio del terror.	Los conflictos deben solucionarse por medio de la negociación y no por medio del terror.
+OLD_NEWS	BNC90	El Gobierno de Perú ha dicho que el modelo económico debe mantenerse intacto, sin cambios.	El modelo económico debe mantenerse intacto, sin cambios.
